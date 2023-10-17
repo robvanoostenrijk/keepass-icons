@@ -1,0 +1,5 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+    <circle stroke="#FFF" stroke-width="40" fill="#171717" cx="400" cy="400" r="380" />
+    <path fill="#fff" d="M520 320l-34.286-40H600v240H200V280h114.286L280 320h-40v160h320V320z" />
+    <path fill="#fff" d="M400 240l120 140H280z" />
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="Naamloos_verloop_2" x1="-1553.69" x2="-1551.6" y1="-1939.18" y2="-1938.11" data-name="Naamloos verloop 2" gradientTransform="matrix(148.32 0 0 62.46 230533.9 121156.6)" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#f37021"/>
+      <stop offset=".29" stop-color="#f57f22"/>
+      <stop offset=".44" stop-color="#f79024"/>
+      <stop offset=".61" stop-color="#f99c25"/>
+      <stop offset=".79" stop-color="#faa426"/>
+      <stop offset="1" stop-color="#faa627"/>
+    </linearGradient>
+    <linearGradient id="Naamloos_verloop_4" x1="-1546.41" x2="-1547.96" y1="-1936.32" y2="-1937.56" data-name="Naamloos verloop 4" gradientTransform="matrix(92.86 0 0 72.87 143793.1 141168)" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#f37021"/>
+      <stop offset=".21" stop-color="#f47421"/>
+      <stop offset=".42" stop-color="#f68a23"/>
+      <stop offset=".63" stop-color="#f89925"/>
+      <stop offset=".82" stop-color="#faa326"/>
+      <stop offset="1" stop-color="#faa627"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect width="200" height="200" fill="none" rx="48.2"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="200" height="200" fill="#6b848e" rx="48.2"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-path)">
+    <rect width="200" height="200" fill="#6b848e" rx="48.2"/>
+    <g clip-path="url(#clip-path-2)">
+      <rect width="200" height="200" fill="#f58222" rx="48.2"/>
+      <path d="M0 95.5v56.3A48.2 48.2 0 0 0 48.2 200H65l27.1-98.2z" fill="#f58222"/>
+      <path fill="#f47821" d="M196.3 170.4L92.1 101.8 65 200h86.8a48.3 48.3 0 0 0 44.5-29.6z"/>
+      <path fill="#f47b20" d="M92.1 101.8l104.2 68.6a47.9 47.9 0 0 0 3.7-18.6V99z"/>
+      <path fill="url(#Naamloos_verloop_2)" d="M240.9 1.7l88.9 94-237.7 6.1z"/>
+      <path fill="#f58423" d="M92.1 101.8L21.3 8.2A48.3 48.3 0 0 0 0 48.2v47.3z"/>
+      <path fill="#f58021" d="M21.3 8.2l70.8 93.6L125.4 0H48.2a47.7 47.7 0 0 0-26.9 8.2z"/>
+      <path fill="url(#Naamloos_verloop_4)" d="M240.9 1.7L92.1 101.8 130.3-15z"/>
+    </g>
+  </g>
+  <path fill="#fff" fill-rule="evenodd" d="M61.1 128.1a10.6 10.6 0 0 0 10.8 10.8h56.2a10.6 10.6 0 0 0 10.8-10.8V82.6c0-5.7 5.8-11.1 12.2-11.1v56.6a22.8 22.8 0 0 1-6.7 16.3 23.2 23.2 0 0 1-16.3 6.7H71.9a23.2 23.2 0 0 1-16.3-6.7 22.8 22.8 0 0 1-6.7-16.3V71.9a22.9 22.9 0 0 1 23-23h56.2a23.4 23.4 0 0 1 8.8 1.7 24.3 24.3 0 0 1 8.4 5.9 6.5 6.5 0 0 1 1.8 4.3 5.8 5.8 0 0 1-1.8 4.3 6 6 0 0 1-8.6 0 12.1 12.1 0 0 0-4.4-3.2 11.6 11.6 0 0 0-4.2-.8H71.9a10.6 10.6 0 0 0-10.8 10.8zm66.8.4c-.2-4.5-3.2-11.3-10.7-12.2H90.4l30.9-29.6c1.3-1.2 4.2-5.4 2.1-10s-4.5-5.2-9.4-5.2H75.5c.2 5.1 2.7 11.2 9.5 12.3h22l-32.5 30.6a8.7 8.7 0 0 0-1.8 9.1c1.6 3.5 4.2 5 9 5z"/>
+</svg>

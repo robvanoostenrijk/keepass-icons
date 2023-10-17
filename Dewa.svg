@@ -1,0 +1,67 @@
+<svg viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <circle cx="90" cy="90" r="90" fill="#fff" />
+    <g transform="translate(-30, 20) scale(0.8)">
+        <defs>
+            <linearGradient id="linear-gradient" gradientUnits="userSpaceOnUse" x1="155.109" y1="76.871" x2="82.035"
+                y2="15.554">
+                <stop offset="0" stop-color="#fef6f5" stop-opacity="1" />
+                <stop offset="0.07" stop-color="#fdeff0" stop-opacity="1" />
+                <stop offset="0.17" stop-color="#fbdbe1" stop-opacity="1" />
+                <stop offset="0.29" stop-color="#f8bac8" stop-opacity="1" />
+                <stop offset="0.42" stop-color="#f38da6" stop-opacity="1" />
+                <stop offset="0.57" stop-color="#ed537a" stop-opacity="1" />
+                <stop offset="0.73" stop-color="#e50d46" stop-opacity="1" />
+                <stop offset="0.76" stop-color="#e4003c" stop-opacity="1" />
+            </linearGradient>
+        </defs>
+        <path
+            d="M63.87 81.09 C63.87 79.22 63.97 77.39 64.12 75.58 67.063 36.636 99.555 6.561 138.61 6.63 149.52 6.639 160.298 9.027 170.19 13.63 173.368 14.142 176.516 14.826 179.62 15.68 155.786 0.828 125.78 0.038 101.197 13.614 76.614 27.19 61.303 53.007 61.18 81.09 61.182 83.807 61.325 86.528 61.609 89.235 63.594 107.911 72.345 125.209 86.21 137.87 84.539 135.137 83.049 132.298 81.75 129.37 70.203 115.936 63.859 98.805 63.87 81.09 Z"
+            fill-opacity="1" fill="url(#linear-gradient)" stroke="none" />
+        <defs>
+            <linearGradient id="linear-gradient-1" gradientUnits="userSpaceOnUse" x1="119.481" y1="34.181" x2="233.793"
+                y2="151.853">
+                <stop offset="0" stop-color="#f4f8ed" stop-opacity="1" />
+                <stop offset="0.24" stop-color="#8ec15c" stop-opacity="1" />
+                <stop offset="0.34" stop-color="#87bd5c" stop-opacity="1" />
+                <stop offset="0.48" stop-color="#74b35d" stop-opacity="1" />
+                <stop offset="0.65" stop-color="#54a25e" stop-opacity="1" />
+                <stop offset="0.85" stop-color="#298b60" stop-opacity="1" />
+                <stop offset="1" stop-color="#017562" stop-opacity="1" />
+            </linearGradient>
+            <linearGradient id="linear-gradient-2" gradientUnits="userSpaceOnUse" x1="168.252" y1="-33.559" x2="168.252"
+                y2="195.089">
+                <stop offset="0" stop-color="#ffffff" stop-opacity="1" />
+                <stop offset="1" stop-color="#97c347" stop-opacity="1" />
+            </linearGradient>
+            <linearGradient id="linear-gradient-3" gradientUnits="userSpaceOnUse" x1="171.684" y1="71.705" x2="159.015"
+                y2="-0.136">
+                <stop offset="0" stop-color="#e9effa" stop-opacity="1" />
+                <stop offset="0.15" stop-color="#e5edf9" stop-opacity="1" />
+                <stop offset="0.28" stop-color="#dbe7f6" stop-opacity="1" />
+                <stop offset="0.41" stop-color="#c8ddf1" stop-opacity="1" />
+                <stop offset="0.53" stop-color="#afcfea" stop-opacity="1" />
+                <stop offset="0.65" stop-color="#8ebde1" stop-opacity="1" />
+                <stop offset="0.77" stop-color="#65a7d6" stop-opacity="1" />
+                <stop offset="0.89" stop-color="#368ec9" stop-opacity="1" />
+                <stop offset="1" stop-color="#0070ba" stop-opacity="1" />
+            </linearGradient>
+            <linearGradient id="linear-gradient-4" gradientUnits="userSpaceOnUse" x1="173.25" y1="39.911" x2="173.25"
+                y2="155.333">
+                <stop offset="0" stop-color="#ffffff" stop-opacity="1" />
+                <stop offset="1" stop-color="#c7dd9b" stop-opacity="1" />
+            </linearGradient>
+        </defs>
+        <path
+            d="M157.34 12.63 C111.703 12.773 74.811 49.862 74.91 95.499 75.009 141.136 112.063 178.065 157.7 178.01 203.337 177.954 240.301 140.937 240.29 95.3 240.198 49.575 203.071 12.571 157.343 12.63 Z M148.91 147.41 C113.638 147.311 85.116 118.655 85.18 83.384 85.244 48.112 113.871 19.561 149.143 19.59 184.415 19.62 212.994 48.218 213 83.49 212.923 118.826 184.247 147.427 148.91 147.41 Z"
+            fill-opacity="1" fill="url(#linear-gradient-1)" stroke="none" />
+        <path
+            d="M216 81.09 C216 54.448 202.248 29.705 179.631 15.644 176.536 14.796 173.388 14.112 170.21 13.6 178.092 17.279 185.273 22.305 191.43 28.45 196.246 33.238 200.373 38.674 203.69 44.6 221.791 77.115 213.172 117.997 183.484 140.437 153.796 162.877 112.113 160.016 85.77 133.73 84.36 132.34 83.05 130.89 81.77 129.37 83.069 132.298 84.559 135.137 86.23 137.87 108.827 158.586 141.517 164.022 169.603 151.733 197.688 139.445 215.88 111.746 216 81.09 Z"
+            fill-opacity="1" fill="url(#linear-gradient-2)" stroke="none" />
+        <path
+            d="M99.54 25.14 C116.494 8.232 140.372 0.212 164.095 3.459 187.818 6.707 208.663 20.848 220.45 41.69 223.5 45.258 226.255 49.067 228.69 53.08 215.867 16.616 178.662 -5.329 140.546 1.09 102.43 7.508 74.464 40.427 74.29 79.08 74.298 81.868 74.448 84.655 74.74 87.429 75.211 82.7 76.074 78.017 77.32 73.43 78.665 55.182 86.556 38.033 99.54 25.14 Z"
+            fill-opacity="1" fill="url(#linear-gradient-3)" stroke="none" />
+        <path
+            d="M153.72 158.23 C179.389 158.318 203.506 145.949 218.412 125.05 233.318 104.152 237.161 77.322 228.72 53.08 226.285 49.067 223.53 45.258 220.48 41.69 233.774 65.362 233.503 94.312 219.768 117.73 206.033 141.149 180.899 155.517 153.75 155.47 133.458 155.512 113.981 147.492 99.602 133.174 85.224 118.856 77.122 99.412 77.08 79.12 77.08 77.22 77.18 75.36 77.32 73.45 76.074 78.037 75.211 82.72 74.74 87.45 79.11 127.76 113.174 158.287 153.72 158.23 Z"
+            fill-opacity="1" fill="url(#linear-gradient-4)" stroke="none" />
+    </g>
+</svg>
