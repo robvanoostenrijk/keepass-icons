@@ -1,15 +1,28 @@
 #!/usr/bin/env bash
 
 function write_image() {
-	NAME=$(basename $1 .svg)
-	URL="/$1"
+	if [[ -n $1 ]]; then
 
-	echo "<td align=\"center\">"
-	echo "<img src=\"${URL}\" alt=\"${NAME}\" width=\"50\">"
-	echo "<br/>"
-	echo "<a href=\"${URL}\">${NAME}</a>"
-	echo "</td>"
+		NAME=$(basename $1 .svg)
+		URL="/$1"
+
+
+		cat <<- EOF
+			<td align="center">
+			<img src="${URL}" alt="${NAME}" width="50">
+			<br/>
+			<a href="${URL}">${NAME}</a>
+			</td>
+		EOF
+	fi
 }
+
+cat << EOF
+# keepass-icons
+Repository of KeepassXC icons in SVG format
+EOF
+
+echo ""
 
 echo "<table>"
 
@@ -19,15 +32,17 @@ while IFS= read -r image1; do
 	IFS= read -r image4
 	IFS= read -r image5
 
-	echo "<tr>"
+	cat <<- EOF
+		<tr>
+			$(write_image $image1)
+			$(write_image $image2)
+			$(write_image $image3)
+			$(write_image $image4)
+			$(write_image $image5)
+		</tr>
 
-	[[ -n $image1 ]] && write_image ${image1}
-	[[ -n $image2 ]] && write_image ${image2}
-	[[ -n $image3 ]] && write_image ${image3}
-	[[ -n $image4 ]] && write_image ${image4}
-	[[ -n $image5 ]] && write_image ${image5}
+	EOF
 
-	echo "</tr>"
 done < <(ls *.svg | sort -f)
 
 echo "</table>"
