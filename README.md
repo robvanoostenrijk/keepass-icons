@@ -284,9 +284,9 @@ Repository of KeepassXC icons in SVG format
 <a href="/Dell.svg">Dell</a>
 </td>
 <td align="center">
-<img src="/Deutsche" alt="Deutsche" width="50">
+<img src="/DeutscheBahn.svg" alt="DeutscheBahn" width="50">
 <br/>
-<a href="/Deutsche">Deutsche</a>
+<a href="/DeutscheBahn.svg">DeutscheBahn</a>
 </td>
 <td align="center">
 <img src="/Dewa.svg" alt="Dewa" width="50">
