@@ -864,13 +864,18 @@ Repository of KeepassXC icons in SVG format
 <a href="/Netflix.svg">Netflix</a>
 </td>
 <td align="center">
-<img src="/Netherlands.svg" alt="Netherlands" width="50">
+<img src="/Netgear.svg" alt="Netgear" width="50">
 <br/>
-<a href="/Netherlands.svg">Netherlands</a>
+<a href="/Netgear.svg">Netgear</a>
 </td>
 </tr>
 
 <tr>
+<td align="center">
+<img src="/Netherlands.svg" alt="Netherlands" width="50">
+<br/>
+<a href="/Netherlands.svg">Netherlands</a>
+</td>
 <td align="center">
 <img src="/Netlify.svg" alt="Netlify" width="50">
 <br/>
@@ -891,14 +896,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/NIBC.svg">NIBC</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Noon.svg" alt="Noon" width="50">
 <br/>
 <a href="/Noon.svg">Noon</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Noqodi.svg" alt="Noqodi" width="50">
 <br/>
@@ -919,14 +924,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/NVIDIA.svg">NVIDIA</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/OffGamers.svg" alt="OffGamers" width="50">
 <br/>
 <a href="/OffGamers.svg">OffGamers</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Ola-Cabs-Box.svg" alt="Ola-Cabs-Box" width="50">
 <br/>
@@ -947,14 +952,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/OPNSense.svg">OPNSense</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Oracle.svg" alt="Oracle" width="50">
 <br/>
 <a href="/Oracle.svg">Oracle</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Oral-B.svg" alt="Oral-B" width="50">
 <br/>
@@ -975,14 +980,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Parallels.svg">Parallels</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Password.svg" alt="Password" width="50">
 <br/>
 <a href="/Password.svg">Password</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Patreon.svg" alt="Patreon" width="50">
 <br/>
@@ -1003,14 +1008,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Piggy-Bank.svg">Piggy-Bank</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Pinterest.svg" alt="Pinterest" width="50">
 <br/>
 <a href="/Pinterest.svg">Pinterest</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/PlatinumList.svg" alt="PlatinumList" width="50">
 <br/>
@@ -1031,14 +1036,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Porkbun.svg">Porkbun</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Postman.svg" alt="Postman" width="50">
 <br/>
 <a href="/Postman.svg">Postman</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Prerender.svg" alt="Prerender" width="50">
 <br/>
@@ -1059,14 +1064,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/ProtonVPN-2.svg">ProtonVPN-2</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/ProtonVPN.svg" alt="ProtonVPN" width="50">
 <br/>
 <a href="/ProtonVPN.svg">ProtonVPN</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/QNap.svg" alt="QNap" width="50">
 <br/>
@@ -1087,14 +1092,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Rapido.svg">Rapido</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Razer.svg" alt="Razer" width="50">
 <br/>
 <a href="/Razer.svg">Razer</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Red-Hat.svg" alt="Red-Hat" width="50">
 <br/>
@@ -1115,14 +1120,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/RockstarGames.svg">RockstarGames</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Roundcube.svg" alt="Roundcube" width="50">
 <br/>
 <a href="/Roundcube.svg">Roundcube</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/RTA.svg" alt="RTA" width="50">
 <br/>
@@ -1143,14 +1148,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Samsung.svg">Samsung</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/SBI.svg" alt="SBI" width="50">
 <br/>
 <a href="/SBI.svg">SBI</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Scaleway.svg" alt="Scaleway" width="50">
 <br/>
@@ -1171,14 +1176,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Secure-Note.svg">Secure-Note</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Sendgrid.svg" alt="Sendgrid" width="50">
 <br/>
 <a href="/Sendgrid.svg">Sendgrid</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/ShopAndShip.svg" alt="ShopAndShip" width="50">
 <br/>
@@ -1199,14 +1204,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Skype.svg">Skype</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Skyscanner.svg" alt="Skyscanner" width="50">
 <br/>
 <a href="/Skyscanner.svg">Skyscanner</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Skywards.svg" alt="Skywards" width="50">
 <br/>
@@ -1227,14 +1232,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Sonos-Gold.svg">Sonos-Gold</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Sonos.svg" alt="Sonos" width="50">
 <br/>
 <a href="/Sonos.svg">Sonos</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Sony.svg" alt="Sony" width="50">
 <br/>
@@ -1255,14 +1260,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/SoundCloud-White.svg">SoundCloud-White</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/SpeedCurve.svg" alt="SpeedCurve" width="50">
 <br/>
 <a href="/SpeedCurve.svg">SpeedCurve</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Spideroak.svg" alt="Spideroak" width="50">
 <br/>
@@ -1283,14 +1288,14 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/SSH.svg">SSH</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Standard-Chartered.svg" alt="Standard-Chartered" width="50">
 <br/>
 <a href="/Standard-Chartered.svg">Standard-Chartered</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Steam.svg" alt="Steam" width="50">
 <br/>
@@ -1307,6 +1312,14 @@ Repository of KeepassXC icons in SVG format
 <a href="/StumbleUpon.svg">StumbleUpon</a>
 </td>
 <td align="center">
+<img src="/SuperMicro.svg" alt="SuperMicro" width="50">
+<br/>
+<a href="/SuperMicro.svg">SuperMicro</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
 <img src="/Swissquote.svg" alt="Swissquote" width="50">
 <br/>
 <a href="/Swissquote.svg">Swissquote</a>
@@ -1316,9 +1329,6 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Synology.svg">Synology</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Tableau.svg" alt="Tableau" width="50">
 <br/>
@@ -1334,6 +1344,9 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Telegram.svg">Telegram</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Termius.svg" alt="Termius" width="50">
 <br/>
@@ -1344,9 +1357,6 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/TP-Link.svg">TP-Link</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Trakt.svg" alt="Trakt" width="50">
 <br/>
@@ -1362,6 +1372,9 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Trello.svg">Trello</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Trip-Advisor.svg" alt="Trip-Advisor" width="50">
 <br/>
@@ -1372,9 +1385,6 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/TuneIn.svg">TuneIn</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Tunnel-Bear.svg" alt="Tunnel-Bear" width="50">
 <br/>
@@ -1390,6 +1400,9 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Tweakers.svg">Tweakers</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Tweaknews.svg" alt="Tweaknews" width="50">
 <br/>
@@ -1400,9 +1413,6 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Twitch.svg">Twitch</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Twitter.svg" alt="Twitter" width="50">
 <br/>
@@ -1418,6 +1428,9 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/UAE-Nation-Brand.svg">UAE-Nation-Brand</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/UAE-Pass.svg" alt="UAE-Pass" width="50">
 <br/>
@@ -1428,9 +1441,6 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/UAE.svg">UAE</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Uber.svg" alt="Uber" width="50">
 <br/>
@@ -1446,6 +1456,9 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Udrive.svg">Udrive</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Umbraco-Light.svg" alt="Umbraco-Light" width="50">
 <br/>
@@ -1456,9 +1469,6 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Umbraco.svg">Umbraco</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/UPS.svg" alt="UPS" width="50">
 <br/>
@@ -1474,6 +1484,9 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Vikunja.svg">Vikunja</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Vimeo.svg" alt="Vimeo" width="50">
 <br/>
@@ -1484,9 +1497,6 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/VisualStudio.svg">VisualStudio</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Vivaldi.svg" alt="Vivaldi" width="50">
 <br/>
@@ -1502,6 +1512,9 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/VMWare.svg">VMWare</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Vodafone-Idea.svg" alt="Vodafone-Idea" width="50">
 <br/>
@@ -1512,9 +1525,6 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/VOX-Cinemas.svg">VOX-Cinemas</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/VPN-Padlock.svg" alt="VPN-Padlock" width="50">
 <br/>
@@ -1530,6 +1540,9 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/WebPageTest.svg">WebPageTest</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Western-Union.svg" alt="Western-Union" width="50">
 <br/>
@@ -1540,9 +1553,6 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Whatsapp.svg">Whatsapp</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/WiFi.svg" alt="WiFi" width="50">
 <br/>
@@ -1558,6 +1568,9 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Wonder-Woman.svg">Wonder-Woman</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/X-Circle.svg" alt="X-Circle" width="50">
 <br/>
@@ -1568,9 +1581,6 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/X-Square.svg">X-Square</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/XDA-Developers.svg" alt="XDA-Developers" width="50">
 <br/>
@@ -1586,6 +1596,9 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Yahoo.svg">Yahoo</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/Yaldi.svg" alt="Yaldi" width="50">
 <br/>
@@ -1596,9 +1609,6 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Yandex.svg">Yandex</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/YesRewards-Gradient.svg" alt="YesRewards-Gradient" width="50">
 <br/>
@@ -1614,6 +1624,9 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Zapier.svg">Zapier</a>
 </td>
+</tr>
+
+<tr>
 <td align="center">
 <img src="/ZeroSSL.svg" alt="ZeroSSL" width="50">
 <br/>
@@ -1624,9 +1637,6 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Ziggo.svg">Ziggo</a>
 </td>
-</tr>
-
-<tr>
 <td align="center">
 <img src="/Zoom.svg" alt="Zoom" width="50">
 <br/>
@@ -1637,8 +1647,6 @@ Repository of KeepassXC icons in SVG format
 <br/>
 <a href="/Zurich-International.svg">Zurich-International</a>
 </td>
-
-
 
 </tr>
 
