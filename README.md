@@ -4,1676 +4,1676 @@ Repository of KeepassXC icons in SVG format
 <table>
 <tr>
 <td align="center">
-<img src="/AccuWeather.svg" alt="AccuWeather" width="50">
+<img src="/icons/AccuWeather.svg" alt="AccuWeather" width="50">
 <br/>
-<a href="/AccuWeather.svg">AccuWeather</a>
+<a href="/icons/AccuWeather.svg">AccuWeather</a>
 </td>
 <td align="center">
-<img src="/ADCB.svg" alt="ADCB" width="50">
+<img src="/icons/ADCB.svg" alt="ADCB" width="50">
 <br/>
-<a href="/ADCB.svg">ADCB</a>
+<a href="/icons/ADCB.svg">ADCB</a>
 </td>
 <td align="center">
-<img src="/Adobe.svg" alt="Adobe" width="50">
+<img src="/icons/Adobe.svg" alt="Adobe" width="50">
 <br/>
-<a href="/Adobe.svg">Adobe</a>
+<a href="/icons/Adobe.svg">Adobe</a>
 </td>
 <td align="center">
-<img src="/AECB.svg" alt="AECB" width="50">
+<img src="/icons/AECB.svg" alt="AECB" width="50">
 <br/>
-<a href="/AECB.svg">AECB</a>
+<a href="/icons/AECB.svg">AECB</a>
 </td>
 <td align="center">
-<img src="/Air-Miles.svg" alt="Air-Miles" width="50">
+<img src="/icons/Air-Miles.svg" alt="Air-Miles" width="50">
 <br/>
-<a href="/Air-Miles.svg">Air-Miles</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Airalo.svg" alt="Airalo" width="50">
-<br/>
-<a href="/Airalo.svg">Airalo</a>
-</td>
-<td align="center">
-<img src="/AirBnB.svg" alt="AirBnB" width="50">
-<br/>
-<a href="/AirBnB.svg">AirBnB</a>
-</td>
-<td align="center">
-<img src="/AirServer.svg" alt="AirServer" width="50">
-<br/>
-<a href="/AirServer.svg">AirServer</a>
-</td>
-<td align="center">
-<img src="/Airtel.svg" alt="Airtel" width="50">
-<br/>
-<a href="/Airtel.svg">Airtel</a>
-</td>
-<td align="center">
-<img src="/Akamai.svg" alt="Akamai" width="50">
-<br/>
-<a href="/Akamai.svg">Akamai</a>
+<a href="/icons/Air-Miles.svg">Air-Miles</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Al-Ansari-Exchange.svg" alt="Al-Ansari-Exchange" width="50">
+<img src="/icons/Airalo.svg" alt="Airalo" width="50">
 <br/>
-<a href="/Al-Ansari-Exchange.svg">Al-Ansari-Exchange</a>
+<a href="/icons/Airalo.svg">Airalo</a>
 </td>
 <td align="center">
-<img src="/AliExpress.svg" alt="AliExpress" width="50">
+<img src="/icons/AirBnB.svg" alt="AirBnB" width="50">
 <br/>
-<a href="/AliExpress.svg">AliExpress</a>
+<a href="/icons/AirBnB.svg">AirBnB</a>
 </td>
 <td align="center">
-<img src="/Amazon-Grey.svg" alt="Amazon-Grey" width="50">
+<img src="/icons/AirServer.svg" alt="AirServer" width="50">
 <br/>
-<a href="/Amazon-Grey.svg">Amazon-Grey</a>
+<a href="/icons/AirServer.svg">AirServer</a>
 </td>
 <td align="center">
-<img src="/Amazon-Yellow.svg" alt="Amazon-Yellow" width="50">
+<img src="/icons/Airtel.svg" alt="Airtel" width="50">
 <br/>
-<a href="/Amazon-Yellow.svg">Amazon-Yellow</a>
+<a href="/icons/Airtel.svg">Airtel</a>
 </td>
 <td align="center">
-<img src="/AnyDo.svg" alt="AnyDo" width="50">
+<img src="/icons/Akamai.svg" alt="Akamai" width="50">
 <br/>
-<a href="/AnyDo.svg">AnyDo</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/AppDynamics.svg" alt="AppDynamics" width="50">
-<br/>
-<a href="/AppDynamics.svg">AppDynamics</a>
-</td>
-<td align="center">
-<img src="/Apple-Circle.svg" alt="Apple-Circle" width="50">
-<br/>
-<a href="/Apple-Circle.svg">Apple-Circle</a>
-</td>
-<td align="center">
-<img src="/Apple-Square.svg" alt="Apple-Square" width="50">
-<br/>
-<a href="/Apple-Square.svg">Apple-Square</a>
-</td>
-<td align="center">
-<img src="/Aramex.svg" alt="Aramex" width="50">
-<br/>
-<a href="/Aramex.svg">Aramex</a>
-</td>
-<td align="center">
-<img src="/Archive-Folders.svg" alt="Archive-Folders" width="50">
-<br/>
-<a href="/Archive-Folders.svg">Archive-Folders</a>
+<a href="/icons/Akamai.svg">Akamai</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Asus-ROG-square.svg" alt="Asus-ROG-square" width="50">
+<img src="/icons/Al-Ansari-Exchange.svg" alt="Al-Ansari-Exchange" width="50">
 <br/>
-<a href="/Asus-ROG-square.svg">Asus-ROG-square</a>
+<a href="/icons/Al-Ansari-Exchange.svg">Al-Ansari-Exchange</a>
 </td>
 <td align="center">
-<img src="/Asus-ROG.svg" alt="Asus-ROG" width="50">
+<img src="/icons/AliExpress.svg" alt="AliExpress" width="50">
 <br/>
-<a href="/Asus-ROG.svg">Asus-ROG</a>
+<a href="/icons/AliExpress.svg">AliExpress</a>
 </td>
 <td align="center">
-<img src="/Atlassian-2.svg" alt="Atlassian-2" width="50">
+<img src="/icons/Amazon-Grey.svg" alt="Amazon-Grey" width="50">
 <br/>
-<a href="/Atlassian-2.svg">Atlassian-2</a>
+<a href="/icons/Amazon-Grey.svg">Amazon-Grey</a>
 </td>
 <td align="center">
-<img src="/Atlassian.svg" alt="Atlassian" width="50">
+<img src="/icons/Amazon-Yellow.svg" alt="Amazon-Yellow" width="50">
 <br/>
-<a href="/Atlassian.svg">Atlassian</a>
+<a href="/icons/Amazon-Yellow.svg">Amazon-Yellow</a>
 </td>
 <td align="center">
-<img src="/Auth0.svg" alt="Auth0" width="50">
+<img src="/icons/AnyDo.svg" alt="AnyDo" width="50">
 <br/>
-<a href="/Auth0.svg">Auth0</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Avatar-Man.svg" alt="Avatar-Man" width="50">
-<br/>
-<a href="/Avatar-Man.svg">Avatar-Man</a>
-</td>
-<td align="center">
-<img src="/AWS-Yellow.svg" alt="AWS-Yellow" width="50">
-<br/>
-<a href="/AWS-Yellow.svg">AWS-Yellow</a>
-</td>
-<td align="center">
-<img src="/AWS.svg" alt="AWS" width="50">
-<br/>
-<a href="/AWS.svg">AWS</a>
-</td>
-<td align="center">
-<img src="/Azure.svg" alt="Azure" width="50">
-<br/>
-<a href="/Azure.svg">Azure</a>
-</td>
-<td align="center">
-<img src="/Baidu-Circle.svg" alt="Baidu-Circle" width="50">
-<br/>
-<a href="/Baidu-Circle.svg">Baidu-Circle</a>
+<a href="/icons/AnyDo.svg">AnyDo</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Baidu.svg" alt="Baidu" width="50">
+<img src="/icons/AppDynamics.svg" alt="AppDynamics" width="50">
 <br/>
-<a href="/Baidu.svg">Baidu</a>
+<a href="/icons/AppDynamics.svg">AppDynamics</a>
 </td>
 <td align="center">
-<img src="/Battle.net.svg" alt="Battle.net" width="50">
+<img src="/icons/Apple-Circle.svg" alt="Apple-Circle" width="50">
 <br/>
-<a href="/Battle.net.svg">Battle.net</a>
+<a href="/icons/Apple-Circle.svg">Apple-Circle</a>
 </td>
 <td align="center">
-<img src="/Bayt.svg" alt="Bayt" width="50">
+<img src="/icons/Apple-Square.svg" alt="Apple-Square" width="50">
 <br/>
-<a href="/Bayt.svg">Bayt</a>
+<a href="/icons/Apple-Square.svg">Apple-Square</a>
 </td>
 <td align="center">
-<img src="/Binance.svg" alt="Binance" width="50">
+<img src="/icons/Aramex.svg" alt="Aramex" width="50">
 <br/>
-<a href="/Binance.svg">Binance</a>
+<a href="/icons/Aramex.svg">Aramex</a>
 </td>
 <td align="center">
-<img src="/Bitbucket.svg" alt="Bitbucket" width="50">
+<img src="/icons/Archive-Folders.svg" alt="Archive-Folders" width="50">
 <br/>
-<a href="/Bitbucket.svg">Bitbucket</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Bitly.svg" alt="Bitly" width="50">
-<br/>
-<a href="/Bitly.svg">Bitly</a>
-</td>
-<td align="center">
-<img src="/BlueRewards.svg" alt="BlueRewards" width="50">
-<br/>
-<a href="/BlueRewards.svg">BlueRewards</a>
-</td>
-<td align="center">
-<img src="/Booking-com.svg" alt="Booking-com" width="50">
-<br/>
-<a href="/Booking-com.svg">Booking-com</a>
-</td>
-<td align="center">
-<img src="/BSNL.svg" alt="BSNL" width="50">
-<br/>
-<a href="/BSNL.svg">BSNL</a>
-</td>
-<td align="center">
-<img src="/Cafu.svg" alt="Cafu" width="50">
-<br/>
-<a href="/Cafu.svg">Cafu</a>
+<a href="/icons/Archive-Folders.svg">Archive-Folders</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Careem.svg" alt="Careem" width="50">
+<img src="/icons/Asus-ROG-square.svg" alt="Asus-ROG-square" width="50">
 <br/>
-<a href="/Careem.svg">Careem</a>
+<a href="/icons/Asus-ROG-square.svg">Asus-ROG-square</a>
 </td>
 <td align="center">
-<img src="/Carrefour.svg" alt="Carrefour" width="50">
+<img src="/icons/Asus-ROG.svg" alt="Asus-ROG" width="50">
 <br/>
-<a href="/Carrefour.svg">Carrefour</a>
+<a href="/icons/Asus-ROG.svg">Asus-ROG</a>
 </td>
 <td align="center">
-<img src="/Cleartrip.svg" alt="Cleartrip" width="50">
+<img src="/icons/Atlassian-2.svg" alt="Atlassian-2" width="50">
 <br/>
-<a href="/Cleartrip.svg">Cleartrip</a>
+<a href="/icons/Atlassian-2.svg">Atlassian-2</a>
 </td>
 <td align="center">
-<img src="/Cloudflare.svg" alt="Cloudflare" width="50">
+<img src="/icons/Atlassian.svg" alt="Atlassian" width="50">
 <br/>
-<a href="/Cloudflare.svg">Cloudflare</a>
+<a href="/icons/Atlassian.svg">Atlassian</a>
 </td>
 <td align="center">
-<img src="/Cobone.svg" alt="Cobone" width="50">
+<img src="/icons/Auth0.svg" alt="Auth0" width="50">
 <br/>
-<a href="/Cobone.svg">Cobone</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/CoffeePlanet.svg" alt="CoffeePlanet" width="50">
-<br/>
-<a href="/CoffeePlanet.svg">CoffeePlanet</a>
-</td>
-<td align="center">
-<img src="/Coinbase.svg" alt="Coinbase" width="50">
-<br/>
-<a href="/Coinbase.svg">Coinbase</a>
-</td>
-<td align="center">
-<img src="/CoreDirection.svg" alt="CoreDirection" width="50">
-<br/>
-<a href="/CoreDirection.svg">CoreDirection</a>
-</td>
-<td align="center">
-<img src="/Costa-Coffee.svg" alt="Costa-Coffee" width="50">
-<br/>
-<a href="/Costa-Coffee.svg">Costa-Coffee</a>
-</td>
-<td align="center">
-<img src="/Couchbase.svg" alt="Couchbase" width="50">
-<br/>
-<a href="/Couchbase.svg">Couchbase</a>
+<a href="/icons/Auth0.svg">Auth0</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Crazy-Egg.svg" alt="Crazy-Egg" width="50">
+<img src="/icons/Avatar-Man.svg" alt="Avatar-Man" width="50">
 <br/>
-<a href="/Crazy-Egg.svg">Crazy-Egg</a>
+<a href="/icons/Avatar-Man.svg">Avatar-Man</a>
 </td>
 <td align="center">
-<img src="/Credit-Card.svg" alt="Credit-Card" width="50">
+<img src="/icons/AWS-Yellow.svg" alt="AWS-Yellow" width="50">
 <br/>
-<a href="/Credit-Card.svg">Credit-Card</a>
+<a href="/icons/AWS-Yellow.svg">AWS-Yellow</a>
 </td>
 <td align="center">
-<img src="/Crownpeak.svg" alt="Crownpeak" width="50">
+<img src="/icons/AWS.svg" alt="AWS" width="50">
 <br/>
-<a href="/Crownpeak.svg">Crownpeak</a>
+<a href="/icons/AWS.svg">AWS</a>
 </td>
 <td align="center">
-<img src="/Cryptomator.svg" alt="Cryptomator" width="50">
+<img src="/icons/Azure.svg" alt="Azure" width="50">
 <br/>
-<a href="/Cryptomator.svg">Cryptomator</a>
+<a href="/icons/Azure.svg">Azure</a>
 </td>
 <td align="center">
-<img src="/Darb.svg" alt="Darb" width="50">
+<img src="/icons/Baidu-Circle.svg" alt="Baidu-Circle" width="50">
 <br/>
-<a href="/Darb.svg">Darb</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Dell.svg" alt="Dell" width="50">
-<br/>
-<a href="/Dell.svg">Dell</a>
-</td>
-<td align="center">
-<img src="/DeutscheBahn.svg" alt="DeutscheBahn" width="50">
-<br/>
-<a href="/DeutscheBahn.svg">DeutscheBahn</a>
-</td>
-<td align="center">
-<img src="/Dewa.svg" alt="Dewa" width="50">
-<br/>
-<a href="/Dewa.svg">Dewa</a>
-</td>
-<td align="center">
-<img src="/DigID.svg" alt="DigID" width="50">
-<br/>
-<a href="/DigID.svg">DigID</a>
-</td>
-<td align="center">
-<img src="/DigitalOcean.svg" alt="DigitalOcean" width="50">
-<br/>
-<a href="/DigitalOcean.svg">DigitalOcean</a>
+<a href="/icons/Baidu-Circle.svg">Baidu-Circle</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Discord.svg" alt="Discord" width="50">
+<img src="/icons/Baidu.svg" alt="Baidu" width="50">
 <br/>
-<a href="/Discord.svg">Discord</a>
+<a href="/icons/Baidu.svg">Baidu</a>
 </td>
 <td align="center">
-<img src="/Docker.svg" alt="Docker" width="50">
+<img src="/icons/Battle.net.svg" alt="Battle.net" width="50">
 <br/>
-<a href="/Docker.svg">Docker</a>
+<a href="/icons/Battle.net.svg">Battle.net</a>
 </td>
 <td align="center">
-<img src="/Dropbox.svg" alt="Dropbox" width="50">
+<img src="/icons/Bayt.svg" alt="Bayt" width="50">
 <br/>
-<a href="/Dropbox.svg">Dropbox</a>
+<a href="/icons/Bayt.svg">Bayt</a>
 </td>
 <td align="center">
-<img src="/Du-New-White.svg" alt="Du-New-White" width="50">
+<img src="/icons/Binance.svg" alt="Binance" width="50">
 <br/>
-<a href="/Du-New-White.svg">Du-New-White</a>
+<a href="/icons/Binance.svg">Binance</a>
 </td>
 <td align="center">
-<img src="/Du-New.svg" alt="Du-New" width="50">
+<img src="/icons/Bitbucket.svg" alt="Bitbucket" width="50">
 <br/>
-<a href="/Du-New.svg">Du-New</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Du.svg" alt="Du" width="50">
-<br/>
-<a href="/Du.svg">Du</a>
-</td>
-<td align="center">
-<img src="/Dubai.svg" alt="Dubai" width="50">
-<br/>
-<a href="/Dubai.svg">Dubai</a>
-</td>
-<td align="center">
-<img src="/DubaiAirports.svg" alt="DubaiAirports" width="50">
-<br/>
-<a href="/DubaiAirports.svg">DubaiAirports</a>
-</td>
-<td align="center">
-<img src="/Dubizzle.svg" alt="Dubizzle" width="50">
-<br/>
-<a href="/Dubizzle.svg">Dubizzle</a>
-</td>
-<td align="center">
-<img src="/DuoLingo.svg" alt="DuoLingo" width="50">
-<br/>
-<a href="/DuoLingo.svg">DuoLingo</a>
+<a href="/icons/Bitbucket.svg">Bitbucket</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/DXB.svg" alt="DXB" width="50">
+<img src="/icons/Bitly.svg" alt="Bitly" width="50">
 <br/>
-<a href="/DXB.svg">DXB</a>
+<a href="/icons/Bitly.svg">Bitly</a>
 </td>
 <td align="center">
-<img src="/EasyJet.svg" alt="EasyJet" width="50">
+<img src="/icons/BlueRewards.svg" alt="BlueRewards" width="50">
 <br/>
-<a href="/EasyJet.svg">EasyJet</a>
+<a href="/icons/BlueRewards.svg">BlueRewards</a>
 </td>
 <td align="center">
-<img src="/eBay.svg" alt="eBay" width="50">
+<img src="/icons/Booking-com.svg" alt="Booking-com" width="50">
 <br/>
-<a href="/eBay.svg">eBay</a>
+<a href="/icons/Booking-com.svg">Booking-com</a>
 </td>
 <td align="center">
-<img src="/Econsultancy.svg" alt="Econsultancy" width="50">
+<img src="/icons/BSNL.svg" alt="BSNL" width="50">
 <br/>
-<a href="/Econsultancy.svg">Econsultancy</a>
+<a href="/icons/BSNL.svg">BSNL</a>
 </td>
 <td align="center">
-<img src="/Ekar.svg" alt="Ekar" width="50">
+<img src="/icons/Cafu.svg" alt="Cafu" width="50">
 <br/>
-<a href="/Ekar.svg">Ekar</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Emirates-Auction.svg" alt="Emirates-Auction" width="50">
-<br/>
-<a href="/Emirates-Auction.svg">Emirates-Auction</a>
-</td>
-<td align="center">
-<img src="/Emirates-Delivers.svg" alt="Emirates-Delivers" width="50">
-<br/>
-<a href="/Emirates-Delivers.svg">Emirates-Delivers</a>
-</td>
-<td align="center">
-<img src="/Emirates-NBD-2.svg" alt="Emirates-NBD-2" width="50">
-<br/>
-<a href="/Emirates-NBD-2.svg">Emirates-NBD-2</a>
-</td>
-<td align="center">
-<img src="/Emirates-NBD.svg" alt="Emirates-NBD" width="50">
-<br/>
-<a href="/Emirates-NBD.svg">Emirates-NBD</a>
-</td>
-<td align="center">
-<img src="/Emirates-tailfin.svg" alt="Emirates-tailfin" width="50">
-<br/>
-<a href="/Emirates-tailfin.svg">Emirates-tailfin</a>
+<a href="/icons/Cafu.svg">Cafu</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Emirates.svg" alt="Emirates" width="50">
+<img src="/icons/Careem.svg" alt="Careem" width="50">
 <br/>
-<a href="/Emirates.svg">Emirates</a>
+<a href="/icons/Careem.svg">Careem</a>
 </td>
 <td align="center">
-<img src="/Entertainer.svg" alt="Entertainer" width="50">
+<img src="/icons/Carrefour.svg" alt="Carrefour" width="50">
 <br/>
-<a href="/Entertainer.svg">Entertainer</a>
+<a href="/icons/Carrefour.svg">Carrefour</a>
 </td>
 <td align="center">
-<img src="/Epic-Games.svg" alt="Epic-Games" width="50">
+<img src="/icons/Cleartrip.svg" alt="Cleartrip" width="50">
 <br/>
-<a href="/Epic-Games.svg">Epic-Games</a>
+<a href="/icons/Cleartrip.svg">Cleartrip</a>
 </td>
 <td align="center">
-<img src="/Esaad-Box.svg" alt="Esaad-Box" width="50">
+<img src="/icons/Cloudflare.svg" alt="Cloudflare" width="50">
 <br/>
-<a href="/Esaad-Box.svg">Esaad-Box</a>
+<a href="/icons/Cloudflare.svg">Cloudflare</a>
 </td>
 <td align="center">
-<img src="/Esaad.svg" alt="Esaad" width="50">
+<img src="/icons/Cobone.svg" alt="Cobone" width="50">
 <br/>
-<a href="/Esaad.svg">Esaad</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Etisalat-e-and.svg" alt="Etisalat-e-and" width="50">
-<br/>
-<a href="/Etisalat-e-and.svg">Etisalat-e-and</a>
-</td>
-<td align="center">
-<img src="/Etisalat.svg" alt="Etisalat" width="50">
-<br/>
-<a href="/Etisalat.svg">Etisalat</a>
-</td>
-<td align="center">
-<img src="/Evernote.svg" alt="Evernote" width="50">
-<br/>
-<a href="/Evernote.svg">Evernote</a>
-</td>
-<td align="center">
-<img src="/Eweka.svg" alt="Eweka" width="50">
-<br/>
-<a href="/Eweka.svg">Eweka</a>
-</td>
-<td align="center">
-<img src="/FAB.svg" alt="FAB" width="50">
-<br/>
-<a href="/FAB.svg">FAB</a>
+<a href="/icons/Cobone.svg">Cobone</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Facebook.svg" alt="Facebook" width="50">
+<img src="/icons/CoffeePlanet.svg" alt="CoffeePlanet" width="50">
 <br/>
-<a href="/Facebook.svg">Facebook</a>
+<a href="/icons/CoffeePlanet.svg">CoffeePlanet</a>
 </td>
 <td align="center">
-<img src="/Fazaa-Box.svg" alt="Fazaa-Box" width="50">
+<img src="/icons/Coinbase.svg" alt="Coinbase" width="50">
 <br/>
-<a href="/Fazaa-Box.svg">Fazaa-Box</a>
+<a href="/icons/Coinbase.svg">Coinbase</a>
 </td>
 <td align="center">
-<img src="/Fazaa.svg" alt="Fazaa" width="50">
+<img src="/icons/CoreDirection.svg" alt="CoreDirection" width="50">
 <br/>
-<a href="/Fazaa.svg">Fazaa</a>
+<a href="/icons/CoreDirection.svg">CoreDirection</a>
 </td>
 <td align="center">
-<img src="/Figma.svg" alt="Figma" width="50">
+<img src="/icons/Costa-Coffee.svg" alt="Costa-Coffee" width="50">
 <br/>
-<a href="/Figma.svg">Figma</a>
+<a href="/icons/Costa-Coffee.svg">Costa-Coffee</a>
 </td>
 <td align="center">
-<img src="/FileRun.svg" alt="FileRun" width="50">
+<img src="/icons/Couchbase.svg" alt="Couchbase" width="50">
 <br/>
-<a href="/FileRun.svg">FileRun</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Firefox.svg" alt="Firefox" width="50">
-<br/>
-<a href="/Firefox.svg">Firefox</a>
-</td>
-<td align="center">
-<img src="/Flickr.svg" alt="Flickr" width="50">
-<br/>
-<a href="/Flickr.svg">Flickr</a>
-</td>
-<td align="center">
-<img src="/Flightradar24.svg" alt="Flightradar24" width="50">
-<br/>
-<a href="/Flightradar24.svg">Flightradar24</a>
-</td>
-<td align="center">
-<img src="/FreeBSD.svg" alt="FreeBSD" width="50">
-<br/>
-<a href="/FreeBSD.svg">FreeBSD</a>
-</td>
-<td align="center">
-<img src="/FreeDNS.svg" alt="FreeDNS" width="50">
-<br/>
-<a href="/FreeDNS.svg">FreeDNS</a>
+<a href="/icons/Couchbase.svg">Couchbase</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Frontify.svg" alt="Frontify" width="50">
+<img src="/icons/Crazy-Egg.svg" alt="Crazy-Egg" width="50">
 <br/>
-<a href="/Frontify.svg">Frontify</a>
+<a href="/icons/Crazy-Egg.svg">Crazy-Egg</a>
 </td>
 <td align="center">
-<img src="/GaiaGPS.svg" alt="GaiaGPS" width="50">
+<img src="/icons/Credit-Card.svg" alt="Credit-Card" width="50">
 <br/>
-<a href="/GaiaGPS.svg">GaiaGPS</a>
+<a href="/icons/Credit-Card.svg">Credit-Card</a>
 </td>
 <td align="center">
-<img src="/Github.svg" alt="Github" width="50">
+<img src="/icons/Crownpeak.svg" alt="Crownpeak" width="50">
 <br/>
-<a href="/Github.svg">Github</a>
+<a href="/icons/Crownpeak.svg">Crownpeak</a>
 </td>
 <td align="center">
-<img src="/Gitlab.svg" alt="Gitlab" width="50">
+<img src="/icons/Cryptomator.svg" alt="Cryptomator" width="50">
 <br/>
-<a href="/Gitlab.svg">Gitlab</a>
+<a href="/icons/Cryptomator.svg">Cryptomator</a>
 </td>
 <td align="center">
-<img src="/Gmail.svg" alt="Gmail" width="50">
+<img src="/icons/Darb.svg" alt="Darb" width="50">
 <br/>
-<a href="/Gmail.svg">Gmail</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/GoDaddy.svg" alt="GoDaddy" width="50">
-<br/>
-<a href="/GoDaddy.svg">GoDaddy</a>
-</td>
-<td align="center">
-<img src="/GoG.svg" alt="GoG" width="50">
-<br/>
-<a href="/GoG.svg">GoG</a>
-</td>
-<td align="center">
-<img src="/Google.svg" alt="Google" width="50">
-<br/>
-<a href="/Google.svg">Google</a>
-</td>
-<td align="center">
-<img src="/Hilton.svg" alt="Hilton" width="50">
-<br/>
-<a href="/Hilton.svg">Hilton</a>
-</td>
-<td align="center">
-<img src="/Homebox.svg" alt="Homebox" width="50">
-<br/>
-<a href="/Homebox.svg">Homebox</a>
+<a href="/icons/Darb.svg">Darb</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Homes-R-Us.svg" alt="Homes-R-Us" width="50">
+<img src="/icons/Dell.svg" alt="Dell" width="50">
 <br/>
-<a href="/Homes-R-Us.svg">Homes-R-Us</a>
+<a href="/icons/Dell.svg">Dell</a>
 </td>
 <td align="center">
-<img src="/HSBC.svg" alt="HSBC" width="50">
+<img src="/icons/DeutscheBahn.svg" alt="DeutscheBahn" width="50">
 <br/>
-<a href="/HSBC.svg">HSBC</a>
+<a href="/icons/DeutscheBahn.svg">DeutscheBahn</a>
 </td>
 <td align="center">
-<img src="/Hurricane-Electric.svg" alt="Hurricane-Electric" width="50">
+<img src="/icons/Dewa.svg" alt="Dewa" width="50">
 <br/>
-<a href="/Hurricane-Electric.svg">Hurricane-Electric</a>
+<a href="/icons/Dewa.svg">Dewa</a>
 </td>
 <td align="center">
-<img src="/iCloud.svg" alt="iCloud" width="50">
+<img src="/icons/DigID.svg" alt="DigID" width="50">
 <br/>
-<a href="/iCloud.svg">iCloud</a>
+<a href="/icons/DigID.svg">DigID</a>
 </td>
 <td align="center">
-<img src="/ID-Card.svg" alt="ID-Card" width="50">
+<img src="/icons/DigitalOcean.svg" alt="DigitalOcean" width="50">
 <br/>
-<a href="/ID-Card.svg">ID-Card</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/IFTTT.svg" alt="IFTTT" width="50">
-<br/>
-<a href="/IFTTT.svg">IFTTT</a>
-</td>
-<td align="center">
-<img src="/iHeartRadio-Circle.svg" alt="iHeartRadio-Circle" width="50">
-<br/>
-<a href="/iHeartRadio-Circle.svg">iHeartRadio-Circle</a>
-</td>
-<td align="center">
-<img src="/iHeartRadio.svg" alt="iHeartRadio" width="50">
-<br/>
-<a href="/iHeartRadio.svg">iHeartRadio</a>
-</td>
-<td align="center">
-<img src="/IKEA.svg" alt="IKEA" width="50">
-<br/>
-<a href="/IKEA.svg">IKEA</a>
-</td>
-<td align="center">
-<img src="/Ilovepdf.svg" alt="Ilovepdf" width="50">
-<br/>
-<a href="/Ilovepdf.svg">Ilovepdf</a>
+<a href="/icons/DigitalOcean.svg">DigitalOcean</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/India.svg" alt="India" width="50">
+<img src="/icons/Discord.svg" alt="Discord" width="50">
 <br/>
-<a href="/India.svg">India</a>
+<a href="/icons/Discord.svg">Discord</a>
 </td>
 <td align="center">
-<img src="/ING.svg" alt="ING" width="50">
+<img src="/icons/Docker.svg" alt="Docker" width="50">
 <br/>
-<a href="/ING.svg">ING</a>
+<a href="/icons/Docker.svg">Docker</a>
 </td>
 <td align="center">
-<img src="/Instagram.svg" alt="Instagram" width="50">
+<img src="/icons/Dropbox.svg" alt="Dropbox" width="50">
 <br/>
-<a href="/Instagram.svg">Instagram</a>
+<a href="/icons/Dropbox.svg">Dropbox</a>
 </td>
 <td align="center">
-<img src="/iPhone.svg" alt="iPhone" width="50">
+<img src="/icons/Du-New-White.svg" alt="Du-New-White" width="50">
 <br/>
-<a href="/iPhone.svg">iPhone</a>
+<a href="/icons/Du-New-White.svg">Du-New-White</a>
 </td>
 <td align="center">
-<img src="/Jio.svg" alt="Jio" width="50">
+<img src="/icons/Du-New.svg" alt="Du-New" width="50">
 <br/>
-<a href="/Jio.svg">Jio</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Joplin.svg" alt="Joplin" width="50">
-<br/>
-<a href="/Joplin.svg">Joplin</a>
-</td>
-<td align="center">
-<img src="/Key.svg" alt="Key" width="50">
-<br/>
-<a href="/Key.svg">Key</a>
-</td>
-<td align="center">
-<img src="/Kodi.svg" alt="Kodi" width="50">
-<br/>
-<a href="/Kodi.svg">Kodi</a>
-</td>
-<td align="center">
-<img src="/LastFM.svg" alt="LastFM" width="50">
-<br/>
-<a href="/LastFM.svg">LastFM</a>
-</td>
-<td align="center">
-<img src="/LinkedIn-Square.svg" alt="LinkedIn-Square" width="50">
-<br/>
-<a href="/LinkedIn-Square.svg">LinkedIn-Square</a>
+<a href="/icons/Du-New.svg">Du-New</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Linkedin.svg" alt="Linkedin" width="50">
+<img src="/icons/Du.svg" alt="Du" width="50">
 <br/>
-<a href="/Linkedin.svg">Linkedin</a>
+<a href="/icons/Du.svg">Du</a>
 </td>
 <td align="center">
-<img src="/Linksys.svg" alt="Linksys" width="50">
+<img src="/icons/Dubai.svg" alt="Dubai" width="50">
 <br/>
-<a href="/Linksys.svg">Linksys</a>
+<a href="/icons/Dubai.svg">Dubai</a>
 </td>
 <td align="center">
-<img src="/Logitech.svg" alt="Logitech" width="50">
+<img src="/icons/DubaiAirports.svg" alt="DubaiAirports" width="50">
 <br/>
-<a href="/Logitech.svg">Logitech</a>
+<a href="/icons/DubaiAirports.svg">DubaiAirports</a>
 </td>
 <td align="center">
-<img src="/LoungeKey.svg" alt="LoungeKey" width="50">
+<img src="/icons/Dubizzle.svg" alt="Dubizzle" width="50">
 <br/>
-<a href="/LoungeKey.svg">LoungeKey</a>
+<a href="/icons/Dubizzle.svg">Dubizzle</a>
 </td>
 <td align="center">
-<img src="/Lulu.svg" alt="Lulu" width="50">
+<img src="/icons/DuoLingo.svg" alt="DuoLingo" width="50">
 <br/>
-<a href="/Lulu.svg">Lulu</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/LycaMobile.svg" alt="LycaMobile" width="50">
-<br/>
-<a href="/LycaMobile.svg">LycaMobile</a>
-</td>
-<td align="center">
-<img src="/Mail.svg" alt="Mail" width="50">
-<br/>
-<a href="/Mail.svg">Mail</a>
-</td>
-<td align="center">
-<img src="/MailChimp.svg" alt="MailChimp" width="50">
-<br/>
-<a href="/MailChimp.svg">MailChimp</a>
-</td>
-<td align="center">
-<img src="/Mailsac.svg" alt="Mailsac" width="50">
-<br/>
-<a href="/Mailsac.svg">Mailsac</a>
-</td>
-<td align="center">
-<img src="/MashreqBank-Circle.svg" alt="MashreqBank-Circle" width="50">
-<br/>
-<a href="/MashreqBank-Circle.svg">MashreqBank-Circle</a>
+<a href="/icons/DuoLingo.svg">DuoLingo</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/MashreqBank.svg" alt="MashreqBank" width="50">
+<img src="/icons/DXB.svg" alt="DXB" width="50">
 <br/>
-<a href="/MashreqBank.svg">MashreqBank</a>
+<a href="/icons/DXB.svg">DXB</a>
 </td>
 <td align="center">
-<img src="/MastercardTravelpass.svg" alt="MastercardTravelpass" width="50">
+<img src="/icons/EasyJet.svg" alt="EasyJet" width="50">
 <br/>
-<a href="/MastercardTravelpass.svg">MastercardTravelpass</a>
+<a href="/icons/EasyJet.svg">EasyJet</a>
 </td>
 <td align="center">
-<img src="/MEGA.svg" alt="MEGA" width="50">
+<img src="/icons/eBay.svg" alt="eBay" width="50">
 <br/>
-<a href="/MEGA.svg">MEGA</a>
+<a href="/icons/eBay.svg">eBay</a>
 </td>
 <td align="center">
-<img src="/Meta.svg" alt="Meta" width="50">
+<img src="/icons/Econsultancy.svg" alt="Econsultancy" width="50">
 <br/>
-<a href="/Meta.svg">Meta</a>
+<a href="/icons/Econsultancy.svg">Econsultancy</a>
 </td>
 <td align="center">
-<img src="/Microsoft-Office.svg" alt="Microsoft-Office" width="50">
+<img src="/icons/Ekar.svg" alt="Ekar" width="50">
 <br/>
-<a href="/Microsoft-Office.svg">Microsoft-Office</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Microsoft-Outlook.svg" alt="Microsoft-Outlook" width="50">
-<br/>
-<a href="/Microsoft-Outlook.svg">Microsoft-Outlook</a>
-</td>
-<td align="center">
-<img src="/Microsoft-Teams-New.svg" alt="Microsoft-Teams-New" width="50">
-<br/>
-<a href="/Microsoft-Teams-New.svg">Microsoft-Teams-New</a>
-</td>
-<td align="center">
-<img src="/Microsoft-Teams.svg" alt="Microsoft-Teams" width="50">
-<br/>
-<a href="/Microsoft-Teams.svg">Microsoft-Teams</a>
-</td>
-<td align="center">
-<img src="/Microsoft.svg" alt="Microsoft" width="50">
-<br/>
-<a href="/Microsoft.svg">Microsoft</a>
-</td>
-<td align="center">
-<img src="/MonsterJobs.svg" alt="MonsterJobs" width="50">
-<br/>
-<a href="/MonsterJobs.svg">MonsterJobs</a>
+<a href="/icons/Ekar.svg">Ekar</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/My-Fonts.svg" alt="My-Fonts" width="50">
+<img src="/icons/Emirates-Auction.svg" alt="Emirates-Auction" width="50">
 <br/>
-<a href="/My-Fonts.svg">My-Fonts</a>
+<a href="/icons/Emirates-Auction.svg">Emirates-Auction</a>
 </td>
 <td align="center">
-<img src="/MyBox.svg" alt="MyBox" width="50">
+<img src="/icons/Emirates-Delivers.svg" alt="Emirates-Delivers" width="50">
 <br/>
-<a href="/MyBox.svg">MyBox</a>
+<a href="/icons/Emirates-Delivers.svg">Emirates-Delivers</a>
 </td>
 <td align="center">
-<img src="/N26-Circle.svg" alt="N26-Circle" width="50">
+<img src="/icons/Emirates-NBD-2.svg" alt="Emirates-NBD-2" width="50">
 <br/>
-<a href="/N26-Circle.svg">N26-Circle</a>
+<a href="/icons/Emirates-NBD-2.svg">Emirates-NBD-2</a>
 </td>
 <td align="center">
-<img src="/N26.svg" alt="N26" width="50">
+<img src="/icons/Emirates-NBD.svg" alt="Emirates-NBD" width="50">
 <br/>
-<a href="/N26.svg">N26</a>
+<a href="/icons/Emirates-NBD.svg">Emirates-NBD</a>
 </td>
 <td align="center">
-<img src="/NAS.svg" alt="NAS" width="50">
+<img src="/icons/Emirates-tailfin.svg" alt="Emirates-tailfin" width="50">
 <br/>
-<a href="/NAS.svg">NAS</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Neat.svg" alt="Neat" width="50">
-<br/>
-<a href="/Neat.svg">Neat</a>
-</td>
-<td align="center">
-<img src="/Netflix.svg" alt="Netflix" width="50">
-<br/>
-<a href="/Netflix.svg">Netflix</a>
-</td>
-<td align="center">
-<img src="/Netgear.svg" alt="Netgear" width="50">
-<br/>
-<a href="/Netgear.svg">Netgear</a>
-</td>
-<td align="center">
-<img src="/Netherlands.svg" alt="Netherlands" width="50">
-<br/>
-<a href="/Netherlands.svg">Netherlands</a>
-</td>
-<td align="center">
-<img src="/Netlify.svg" alt="Netlify" width="50">
-<br/>
-<a href="/Netlify.svg">Netlify</a>
+<a href="/icons/Emirates-tailfin.svg">Emirates-tailfin</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Newegg.svg" alt="Newegg" width="50">
+<img src="/icons/Emirates.svg" alt="Emirates" width="50">
 <br/>
-<a href="/Newegg.svg">Newegg</a>
+<a href="/icons/Emirates.svg">Emirates</a>
 </td>
 <td align="center">
-<img src="/Nextcloud.svg" alt="Nextcloud" width="50">
+<img src="/icons/Entertainer.svg" alt="Entertainer" width="50">
 <br/>
-<a href="/Nextcloud.svg">Nextcloud</a>
+<a href="/icons/Entertainer.svg">Entertainer</a>
 </td>
 <td align="center">
-<img src="/NIBC.svg" alt="NIBC" width="50">
+<img src="/icons/Epic-Games.svg" alt="Epic-Games" width="50">
 <br/>
-<a href="/NIBC.svg">NIBC</a>
+<a href="/icons/Epic-Games.svg">Epic-Games</a>
 </td>
 <td align="center">
-<img src="/Noon.svg" alt="Noon" width="50">
+<img src="/icons/Esaad-Box.svg" alt="Esaad-Box" width="50">
 <br/>
-<a href="/Noon.svg">Noon</a>
+<a href="/icons/Esaad-Box.svg">Esaad-Box</a>
 </td>
 <td align="center">
-<img src="/Noqodi.svg" alt="Noqodi" width="50">
+<img src="/icons/Esaad.svg" alt="Esaad" width="50">
 <br/>
-<a href="/Noqodi.svg">Noqodi</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/NordVPN.svg" alt="NordVPN" width="50">
-<br/>
-<a href="/NordVPN.svg">NordVPN</a>
-</td>
-<td align="center">
-<img src="/NVIDIA-Square.svg" alt="NVIDIA-Square" width="50">
-<br/>
-<a href="/NVIDIA-Square.svg">NVIDIA-Square</a>
-</td>
-<td align="center">
-<img src="/NVIDIA.svg" alt="NVIDIA" width="50">
-<br/>
-<a href="/NVIDIA.svg">NVIDIA</a>
-</td>
-<td align="center">
-<img src="/OffGamers.svg" alt="OffGamers" width="50">
-<br/>
-<a href="/OffGamers.svg">OffGamers</a>
-</td>
-<td align="center">
-<img src="/Ola-Cabs-Box.svg" alt="Ola-Cabs-Box" width="50">
-<br/>
-<a href="/Ola-Cabs-Box.svg">Ola-Cabs-Box</a>
+<a href="/icons/Esaad.svg">Esaad</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Ola-Cabs.svg" alt="Ola-Cabs" width="50">
+<img src="/icons/Etisalat-e-and.svg" alt="Etisalat-e-and" width="50">
 <br/>
-<a href="/Ola-Cabs.svg">Ola-Cabs</a>
+<a href="/icons/Etisalat-e-and.svg">Etisalat-e-and</a>
 </td>
 <td align="center">
-<img src="/OpenSubtitles.svg" alt="OpenSubtitles" width="50">
+<img src="/icons/Etisalat.svg" alt="Etisalat" width="50">
 <br/>
-<a href="/OpenSubtitles.svg">OpenSubtitles</a>
+<a href="/icons/Etisalat.svg">Etisalat</a>
 </td>
 <td align="center">
-<img src="/OPNSense.svg" alt="OPNSense" width="50">
+<img src="/icons/Evernote.svg" alt="Evernote" width="50">
 <br/>
-<a href="/OPNSense.svg">OPNSense</a>
+<a href="/icons/Evernote.svg">Evernote</a>
 </td>
 <td align="center">
-<img src="/Oracle.svg" alt="Oracle" width="50">
+<img src="/icons/Eweka.svg" alt="Eweka" width="50">
 <br/>
-<a href="/Oracle.svg">Oracle</a>
+<a href="/icons/Eweka.svg">Eweka</a>
 </td>
 <td align="center">
-<img src="/Oral-B.svg" alt="Oral-B" width="50">
+<img src="/icons/FAB.svg" alt="FAB" width="50">
 <br/>
-<a href="/Oral-B.svg">Oral-B</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/OSN.svg" alt="OSN" width="50">
-<br/>
-<a href="/OSN.svg">OSN</a>
-</td>
-<td align="center">
-<img src="/Parallels-Flat.svg" alt="Parallels-Flat" width="50">
-<br/>
-<a href="/Parallels-Flat.svg">Parallels-Flat</a>
-</td>
-<td align="center">
-<img src="/Parallels.svg" alt="Parallels" width="50">
-<br/>
-<a href="/Parallels.svg">Parallels</a>
-</td>
-<td align="center">
-<img src="/Password.svg" alt="Password" width="50">
-<br/>
-<a href="/Password.svg">Password</a>
-</td>
-<td align="center">
-<img src="/Patreon.svg" alt="Patreon" width="50">
-<br/>
-<a href="/Patreon.svg">Patreon</a>
+<a href="/icons/FAB.svg">FAB</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/PayPal.svg" alt="PayPal" width="50">
+<img src="/icons/Facebook.svg" alt="Facebook" width="50">
 <br/>
-<a href="/PayPal.svg">PayPal</a>
+<a href="/icons/Facebook.svg">Facebook</a>
 </td>
 <td align="center">
-<img src="/Philips.svg" alt="Philips" width="50">
+<img src="/icons/Fazaa-Box.svg" alt="Fazaa-Box" width="50">
 <br/>
-<a href="/Philips.svg">Philips</a>
+<a href="/icons/Fazaa-Box.svg">Fazaa-Box</a>
 </td>
 <td align="center">
-<img src="/Piggy-Bank.svg" alt="Piggy-Bank" width="50">
+<img src="/icons/Fazaa.svg" alt="Fazaa" width="50">
 <br/>
-<a href="/Piggy-Bank.svg">Piggy-Bank</a>
+<a href="/icons/Fazaa.svg">Fazaa</a>
 </td>
 <td align="center">
-<img src="/Pinterest.svg" alt="Pinterest" width="50">
+<img src="/icons/Figma.svg" alt="Figma" width="50">
 <br/>
-<a href="/Pinterest.svg">Pinterest</a>
+<a href="/icons/Figma.svg">Figma</a>
 </td>
 <td align="center">
-<img src="/PlatinumList.svg" alt="PlatinumList" width="50">
+<img src="/icons/FileRun.svg" alt="FileRun" width="50">
 <br/>
-<a href="/PlatinumList.svg">PlatinumList</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/PlayStation.svg" alt="PlayStation" width="50">
-<br/>
-<a href="/PlayStation.svg">PlayStation</a>
-</td>
-<td align="center">
-<img src="/Plex.svg" alt="Plex" width="50">
-<br/>
-<a href="/Plex.svg">Plex</a>
-</td>
-<td align="center">
-<img src="/Porkbun.svg" alt="Porkbun" width="50">
-<br/>
-<a href="/Porkbun.svg">Porkbun</a>
-</td>
-<td align="center">
-<img src="/Postman.svg" alt="Postman" width="50">
-<br/>
-<a href="/Postman.svg">Postman</a>
-</td>
-<td align="center">
-<img src="/Prerender.svg" alt="Prerender" width="50">
-<br/>
-<a href="/Prerender.svg">Prerender</a>
+<a href="/icons/FileRun.svg">FileRun</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/PrivadoVPN.svg" alt="PrivadoVPN" width="50">
+<img src="/icons/Firefox.svg" alt="Firefox" width="50">
 <br/>
-<a href="/PrivadoVPN.svg">PrivadoVPN</a>
+<a href="/icons/Firefox.svg">Firefox</a>
 </td>
 <td align="center">
-<img src="/ProdPad.svg" alt="ProdPad" width="50">
+<img src="/icons/Flickr.svg" alt="Flickr" width="50">
 <br/>
-<a href="/ProdPad.svg">ProdPad</a>
+<a href="/icons/Flickr.svg">Flickr</a>
 </td>
 <td align="center">
-<img src="/ProtonVPN-2.svg" alt="ProtonVPN-2" width="50">
+<img src="/icons/Flightradar24.svg" alt="Flightradar24" width="50">
 <br/>
-<a href="/ProtonVPN-2.svg">ProtonVPN-2</a>
+<a href="/icons/Flightradar24.svg">Flightradar24</a>
 </td>
 <td align="center">
-<img src="/ProtonVPN.svg" alt="ProtonVPN" width="50">
+<img src="/icons/FreeBSD.svg" alt="FreeBSD" width="50">
 <br/>
-<a href="/ProtonVPN.svg">ProtonVPN</a>
+<a href="/icons/FreeBSD.svg">FreeBSD</a>
 </td>
 <td align="center">
-<img src="/ProxmoxVE.svg" alt="ProxmoxVE" width="50">
+<img src="/icons/FreeDNS.svg" alt="FreeDNS" width="50">
 <br/>
-<a href="/ProxmoxVE.svg">ProxmoxVE</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/QNap.svg" alt="QNap" width="50">
-<br/>
-<a href="/QNap.svg">QNap</a>
-</td>
-<td align="center">
-<img src="/QuantumMetric.svg" alt="QuantumMetric" width="50">
-<br/>
-<a href="/QuantumMetric.svg">QuantumMetric</a>
-</td>
-<td align="center">
-<img src="/Raider.io.svg" alt="Raider.io" width="50">
-<br/>
-<a href="/Raider.io.svg">Raider.io</a>
-</td>
-<td align="center">
-<img src="/Rapido.svg" alt="Rapido" width="50">
-<br/>
-<a href="/Rapido.svg">Rapido</a>
-</td>
-<td align="center">
-<img src="/Razer.svg" alt="Razer" width="50">
-<br/>
-<a href="/Razer.svg">Razer</a>
+<a href="/icons/FreeDNS.svg">FreeDNS</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Red-Hat.svg" alt="Red-Hat" width="50">
+<img src="/icons/Frontify.svg" alt="Frontify" width="50">
 <br/>
-<a href="/Red-Hat.svg">Red-Hat</a>
+<a href="/icons/Frontify.svg">Frontify</a>
 </td>
 <td align="center">
-<img src="/Reddit.svg" alt="Reddit" width="50">
+<img src="/icons/GaiaGPS.svg" alt="GaiaGPS" width="50">
 <br/>
-<a href="/Reddit.svg">Reddit</a>
+<a href="/icons/GaiaGPS.svg">GaiaGPS</a>
 </td>
 <td align="center">
-<img src="/Revolut.svg" alt="Revolut" width="50">
+<img src="/icons/Github.svg" alt="Github" width="50">
 <br/>
-<a href="/Revolut.svg">Revolut</a>
+<a href="/icons/Github.svg">Github</a>
 </td>
 <td align="center">
-<img src="/RockstarGames.svg" alt="RockstarGames" width="50">
+<img src="/icons/Gitlab.svg" alt="Gitlab" width="50">
 <br/>
-<a href="/RockstarGames.svg">RockstarGames</a>
+<a href="/icons/Gitlab.svg">Gitlab</a>
 </td>
 <td align="center">
-<img src="/Roundcube.svg" alt="Roundcube" width="50">
+<img src="/icons/Gmail.svg" alt="Gmail" width="50">
 <br/>
-<a href="/Roundcube.svg">Roundcube</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/RTA.svg" alt="RTA" width="50">
-<br/>
-<a href="/RTA.svg">RTA</a>
-</td>
-<td align="center">
-<img src="/SalesForce.svg" alt="SalesForce" width="50">
-<br/>
-<a href="/SalesForce.svg">SalesForce</a>
-</td>
-<td align="center">
-<img src="/Salik.svg" alt="Salik" width="50">
-<br/>
-<a href="/Salik.svg">Salik</a>
-</td>
-<td align="center">
-<img src="/Samsung.svg" alt="Samsung" width="50">
-<br/>
-<a href="/Samsung.svg">Samsung</a>
-</td>
-<td align="center">
-<img src="/SBI.svg" alt="SBI" width="50">
-<br/>
-<a href="/SBI.svg">SBI</a>
+<a href="/icons/Gmail.svg">Gmail</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Scaleway.svg" alt="Scaleway" width="50">
+<img src="/icons/GoDaddy.svg" alt="GoDaddy" width="50">
 <br/>
-<a href="/Scaleway.svg">Scaleway</a>
+<a href="/icons/GoDaddy.svg">GoDaddy</a>
 </td>
 <td align="center">
-<img src="/SDL-Trados-2019.svg" alt="SDL-Trados-2019" width="50">
+<img src="/icons/GoG.svg" alt="GoG" width="50">
 <br/>
-<a href="/SDL-Trados-2019.svg">SDL-Trados-2019</a>
+<a href="/icons/GoG.svg">GoG</a>
 </td>
 <td align="center">
-<img src="/Searchmetrics.svg" alt="Searchmetrics" width="50">
+<img src="/icons/Google.svg" alt="Google" width="50">
 <br/>
-<a href="/Searchmetrics.svg">Searchmetrics</a>
+<a href="/icons/Google.svg">Google</a>
 </td>
 <td align="center">
-<img src="/Secure-Note.svg" alt="Secure-Note" width="50">
+<img src="/icons/Hilton.svg" alt="Hilton" width="50">
 <br/>
-<a href="/Secure-Note.svg">Secure-Note</a>
+<a href="/icons/Hilton.svg">Hilton</a>
 </td>
 <td align="center">
-<img src="/Sendgrid.svg" alt="Sendgrid" width="50">
+<img src="/icons/Homebox.svg" alt="Homebox" width="50">
 <br/>
-<a href="/Sendgrid.svg">Sendgrid</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/ShopAndShip.svg" alt="ShopAndShip" width="50">
-<br/>
-<a href="/ShopAndShip.svg">ShopAndShip</a>
-</td>
-<td align="center">
-<img src="/Shukran.svg" alt="Shukran" width="50">
-<br/>
-<a href="/Shukran.svg">Shukran</a>
-</td>
-<td align="center">
-<img src="/Skrill.svg" alt="Skrill" width="50">
-<br/>
-<a href="/Skrill.svg">Skrill</a>
-</td>
-<td align="center">
-<img src="/Skype.svg" alt="Skype" width="50">
-<br/>
-<a href="/Skype.svg">Skype</a>
-</td>
-<td align="center">
-<img src="/Skyscanner.svg" alt="Skyscanner" width="50">
-<br/>
-<a href="/Skyscanner.svg">Skyscanner</a>
+<a href="/icons/Homebox.svg">Homebox</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Skywards.svg" alt="Skywards" width="50">
+<img src="/icons/Homes-R-Us.svg" alt="Homes-R-Us" width="50">
 <br/>
-<a href="/Skywards.svg">Skywards</a>
+<a href="/icons/Homes-R-Us.svg">Homes-R-Us</a>
 </td>
 <td align="center">
-<img src="/SkywardsEveryday.svg" alt="SkywardsEveryday" width="50">
+<img src="/icons/HSBC.svg" alt="HSBC" width="50">
 <br/>
-<a href="/SkywardsEveryday.svg">SkywardsEveryday</a>
+<a href="/icons/HSBC.svg">HSBC</a>
 </td>
 <td align="center">
-<img src="/Software-Package.svg" alt="Software-Package" width="50">
+<img src="/icons/Hurricane-Electric.svg" alt="Hurricane-Electric" width="50">
 <br/>
-<a href="/Software-Package.svg">Software-Package</a>
+<a href="/icons/Hurricane-Electric.svg">Hurricane-Electric</a>
 </td>
 <td align="center">
-<img src="/Sonos-Gold.svg" alt="Sonos-Gold" width="50">
+<img src="/icons/iCloud.svg" alt="iCloud" width="50">
 <br/>
-<a href="/Sonos-Gold.svg">Sonos-Gold</a>
+<a href="/icons/iCloud.svg">iCloud</a>
 </td>
 <td align="center">
-<img src="/Sonos.svg" alt="Sonos" width="50">
+<img src="/icons/ID-Card.svg" alt="ID-Card" width="50">
 <br/>
-<a href="/Sonos.svg">Sonos</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Sony.svg" alt="Sony" width="50">
-<br/>
-<a href="/Sony.svg">Sony</a>
-</td>
-<td align="center">
-<img src="/Sophos.svg" alt="Sophos" width="50">
-<br/>
-<a href="/Sophos.svg">Sophos</a>
-</td>
-<td align="center">
-<img src="/SoundCloud-Black.svg" alt="SoundCloud-Black" width="50">
-<br/>
-<a href="/SoundCloud-Black.svg">SoundCloud-Black</a>
-</td>
-<td align="center">
-<img src="/SoundCloud-White.svg" alt="SoundCloud-White" width="50">
-<br/>
-<a href="/SoundCloud-White.svg">SoundCloud-White</a>
-</td>
-<td align="center">
-<img src="/SpeedCurve.svg" alt="SpeedCurve" width="50">
-<br/>
-<a href="/SpeedCurve.svg">SpeedCurve</a>
+<a href="/icons/ID-Card.svg">ID-Card</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Spideroak.svg" alt="Spideroak" width="50">
+<img src="/icons/IFTTT.svg" alt="IFTTT" width="50">
 <br/>
-<a href="/Spideroak.svg">Spideroak</a>
+<a href="/icons/IFTTT.svg">IFTTT</a>
 </td>
 <td align="center">
-<img src="/Spotify-Black.svg" alt="Spotify-Black" width="50">
+<img src="/icons/iHeartRadio-Circle.svg" alt="iHeartRadio-Circle" width="50">
 <br/>
-<a href="/Spotify-Black.svg">Spotify-Black</a>
+<a href="/icons/iHeartRadio-Circle.svg">iHeartRadio-Circle</a>
 </td>
 <td align="center">
-<img src="/Spotify.svg" alt="Spotify" width="50">
+<img src="/icons/iHeartRadio.svg" alt="iHeartRadio" width="50">
 <br/>
-<a href="/Spotify.svg">Spotify</a>
+<a href="/icons/iHeartRadio.svg">iHeartRadio</a>
 </td>
 <td align="center">
-<img src="/SSH.svg" alt="SSH" width="50">
+<img src="/icons/IKEA.svg" alt="IKEA" width="50">
 <br/>
-<a href="/SSH.svg">SSH</a>
+<a href="/icons/IKEA.svg">IKEA</a>
 </td>
 <td align="center">
-<img src="/Standard-Chartered.svg" alt="Standard-Chartered" width="50">
+<img src="/icons/Ilovepdf.svg" alt="Ilovepdf" width="50">
 <br/>
-<a href="/Standard-Chartered.svg">Standard-Chartered</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Steam.svg" alt="Steam" width="50">
-<br/>
-<a href="/Steam.svg">Steam</a>
-</td>
-<td align="center">
-<img src="/Stremio.svg" alt="Stremio" width="50">
-<br/>
-<a href="/Stremio.svg">Stremio</a>
-</td>
-<td align="center">
-<img src="/StumbleUpon.svg" alt="StumbleUpon" width="50">
-<br/>
-<a href="/StumbleUpon.svg">StumbleUpon</a>
-</td>
-<td align="center">
-<img src="/SuperMicro.svg" alt="SuperMicro" width="50">
-<br/>
-<a href="/SuperMicro.svg">SuperMicro</a>
-</td>
-<td align="center">
-<img src="/Swissquote.svg" alt="Swissquote" width="50">
-<br/>
-<a href="/Swissquote.svg">Swissquote</a>
+<a href="/icons/Ilovepdf.svg">Ilovepdf</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Synology.svg" alt="Synology" width="50">
+<img src="/icons/India.svg" alt="India" width="50">
 <br/>
-<a href="/Synology.svg">Synology</a>
+<a href="/icons/India.svg">India</a>
 </td>
 <td align="center">
-<img src="/Tableau.svg" alt="Tableau" width="50">
+<img src="/icons/ING.svg" alt="ING" width="50">
 <br/>
-<a href="/Tableau.svg">Tableau</a>
+<a href="/icons/ING.svg">ING</a>
 </td>
 <td align="center">
-<img src="/TeamViewer.svg" alt="TeamViewer" width="50">
+<img src="/icons/Instagram.svg" alt="Instagram" width="50">
 <br/>
-<a href="/TeamViewer.svg">TeamViewer</a>
+<a href="/icons/Instagram.svg">Instagram</a>
 </td>
 <td align="center">
-<img src="/Telegram.svg" alt="Telegram" width="50">
+<img src="/icons/iPhone.svg" alt="iPhone" width="50">
 <br/>
-<a href="/Telegram.svg">Telegram</a>
+<a href="/icons/iPhone.svg">iPhone</a>
 </td>
 <td align="center">
-<img src="/Termius.svg" alt="Termius" width="50">
+<img src="/icons/Jio.svg" alt="Jio" width="50">
 <br/>
-<a href="/Termius.svg">Termius</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/TP-Link.svg" alt="TP-Link" width="50">
-<br/>
-<a href="/TP-Link.svg">TP-Link</a>
-</td>
-<td align="center">
-<img src="/Trakt.svg" alt="Trakt" width="50">
-<br/>
-<a href="/Trakt.svg">Trakt</a>
-</td>
-<td align="center">
-<img src="/TransIP-Stack.svg" alt="TransIP-Stack" width="50">
-<br/>
-<a href="/TransIP-Stack.svg">TransIP-Stack</a>
-</td>
-<td align="center">
-<img src="/Trello.svg" alt="Trello" width="50">
-<br/>
-<a href="/Trello.svg">Trello</a>
-</td>
-<td align="center">
-<img src="/Trip-Advisor.svg" alt="Trip-Advisor" width="50">
-<br/>
-<a href="/Trip-Advisor.svg">Trip-Advisor</a>
+<a href="/icons/Jio.svg">Jio</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/TuneIn.svg" alt="TuneIn" width="50">
+<img src="/icons/Joplin.svg" alt="Joplin" width="50">
 <br/>
-<a href="/TuneIn.svg">TuneIn</a>
+<a href="/icons/Joplin.svg">Joplin</a>
 </td>
 <td align="center">
-<img src="/Tunnel-Bear.svg" alt="Tunnel-Bear" width="50">
+<img src="/icons/Key.svg" alt="Key" width="50">
 <br/>
-<a href="/Tunnel-Bear.svg">Tunnel-Bear</a>
+<a href="/icons/Key.svg">Key</a>
 </td>
 <td align="center">
-<img src="/Tweakers-New.svg" alt="Tweakers-New" width="50">
+<img src="/icons/Kodi.svg" alt="Kodi" width="50">
 <br/>
-<a href="/Tweakers-New.svg">Tweakers-New</a>
+<a href="/icons/Kodi.svg">Kodi</a>
 </td>
 <td align="center">
-<img src="/Tweakers.svg" alt="Tweakers" width="50">
+<img src="/icons/LastFM.svg" alt="LastFM" width="50">
 <br/>
-<a href="/Tweakers.svg">Tweakers</a>
+<a href="/icons/LastFM.svg">LastFM</a>
 </td>
 <td align="center">
-<img src="/Tweaknews.svg" alt="Tweaknews" width="50">
+<img src="/icons/LinkedIn-Square.svg" alt="LinkedIn-Square" width="50">
 <br/>
-<a href="/Tweaknews.svg">Tweaknews</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Twitch.svg" alt="Twitch" width="50">
-<br/>
-<a href="/Twitch.svg">Twitch</a>
-</td>
-<td align="center">
-<img src="/Twitter.svg" alt="Twitter" width="50">
-<br/>
-<a href="/Twitter.svg">Twitter</a>
-</td>
-<td align="center">
-<img src="/UAE-Government.svg" alt="UAE-Government" width="50">
-<br/>
-<a href="/UAE-Government.svg">UAE-Government</a>
-</td>
-<td align="center">
-<img src="/UAE-Nation-Brand.svg" alt="UAE-Nation-Brand" width="50">
-<br/>
-<a href="/UAE-Nation-Brand.svg">UAE-Nation-Brand</a>
-</td>
-<td align="center">
-<img src="/UAE-Pass.svg" alt="UAE-Pass" width="50">
-<br/>
-<a href="/UAE-Pass.svg">UAE-Pass</a>
+<a href="/icons/LinkedIn-Square.svg">LinkedIn-Square</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/UAE.svg" alt="UAE" width="50">
+<img src="/icons/Linkedin.svg" alt="Linkedin" width="50">
 <br/>
-<a href="/UAE.svg">UAE</a>
+<a href="/icons/Linkedin.svg">Linkedin</a>
 </td>
 <td align="center">
-<img src="/Uber.svg" alt="Uber" width="50">
+<img src="/icons/Linksys.svg" alt="Linksys" width="50">
 <br/>
-<a href="/Uber.svg">Uber</a>
+<a href="/icons/Linksys.svg">Linksys</a>
 </td>
 <td align="center">
-<img src="/Ubisoft.svg" alt="Ubisoft" width="50">
+<img src="/icons/Logitech.svg" alt="Logitech" width="50">
 <br/>
-<a href="/Ubisoft.svg">Ubisoft</a>
+<a href="/icons/Logitech.svg">Logitech</a>
 </td>
 <td align="center">
-<img src="/Udrive.svg" alt="Udrive" width="50">
+<img src="/icons/LoungeKey.svg" alt="LoungeKey" width="50">
 <br/>
-<a href="/Udrive.svg">Udrive</a>
+<a href="/icons/LoungeKey.svg">LoungeKey</a>
 </td>
 <td align="center">
-<img src="/Umbraco-Light.svg" alt="Umbraco-Light" width="50">
+<img src="/icons/Lulu.svg" alt="Lulu" width="50">
 <br/>
-<a href="/Umbraco-Light.svg">Umbraco-Light</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/Umbraco.svg" alt="Umbraco" width="50">
-<br/>
-<a href="/Umbraco.svg">Umbraco</a>
-</td>
-<td align="center">
-<img src="/UPS.svg" alt="UPS" width="50">
-<br/>
-<a href="/UPS.svg">UPS</a>
-</td>
-<td align="center">
-<img src="/VFS-Global.svg" alt="VFS-Global" width="50">
-<br/>
-<a href="/VFS-Global.svg">VFS-Global</a>
-</td>
-<td align="center">
-<img src="/Vikunja.svg" alt="Vikunja" width="50">
-<br/>
-<a href="/Vikunja.svg">Vikunja</a>
-</td>
-<td align="center">
-<img src="/Vimeo.svg" alt="Vimeo" width="50">
-<br/>
-<a href="/Vimeo.svg">Vimeo</a>
+<a href="/icons/Lulu.svg">Lulu</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/VisualStudio.svg" alt="VisualStudio" width="50">
+<img src="/icons/LycaMobile.svg" alt="LycaMobile" width="50">
 <br/>
-<a href="/VisualStudio.svg">VisualStudio</a>
+<a href="/icons/LycaMobile.svg">LycaMobile</a>
 </td>
 <td align="center">
-<img src="/Vivaldi.svg" alt="Vivaldi" width="50">
+<img src="/icons/Mail.svg" alt="Mail" width="50">
 <br/>
-<a href="/Vivaldi.svg">Vivaldi</a>
+<a href="/icons/Mail.svg">Mail</a>
 </td>
 <td align="center">
-<img src="/Vivino.svg" alt="Vivino" width="50">
+<img src="/icons/MailChimp.svg" alt="MailChimp" width="50">
 <br/>
-<a href="/Vivino.svg">Vivino</a>
+<a href="/icons/MailChimp.svg">MailChimp</a>
 </td>
 <td align="center">
-<img src="/VMWare.svg" alt="VMWare" width="50">
+<img src="/icons/Mailsac.svg" alt="Mailsac" width="50">
 <br/>
-<a href="/VMWare.svg">VMWare</a>
+<a href="/icons/Mailsac.svg">Mailsac</a>
 </td>
 <td align="center">
-<img src="/Vodafone-Idea.svg" alt="Vodafone-Idea" width="50">
+<img src="/icons/MashreqBank-Circle.svg" alt="MashreqBank-Circle" width="50">
 <br/>
-<a href="/Vodafone-Idea.svg">Vodafone-Idea</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/VOX-Cinemas.svg" alt="VOX-Cinemas" width="50">
-<br/>
-<a href="/VOX-Cinemas.svg">VOX-Cinemas</a>
-</td>
-<td align="center">
-<img src="/VPN-Padlock.svg" alt="VPN-Padlock" width="50">
-<br/>
-<a href="/VPN-Padlock.svg">VPN-Padlock</a>
-</td>
-<td align="center">
-<img src="/Waterdrop.svg" alt="Waterdrop" width="50">
-<br/>
-<a href="/Waterdrop.svg">Waterdrop</a>
-</td>
-<td align="center">
-<img src="/Waze.svg" alt="Waze" width="50">
-<br/>
-<a href="/Waze.svg">Waze</a>
-</td>
-<td align="center">
-<img src="/WebPageTest.svg" alt="WebPageTest" width="50">
-<br/>
-<a href="/WebPageTest.svg">WebPageTest</a>
+<a href="/icons/MashreqBank-Circle.svg">MashreqBank-Circle</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Western-Union.svg" alt="Western-Union" width="50">
+<img src="/icons/MashreqBank.svg" alt="MashreqBank" width="50">
 <br/>
-<a href="/Western-Union.svg">Western-Union</a>
+<a href="/icons/MashreqBank.svg">MashreqBank</a>
 </td>
 <td align="center">
-<img src="/Whatsapp.svg" alt="Whatsapp" width="50">
+<img src="/icons/MastercardTravelpass.svg" alt="MastercardTravelpass" width="50">
 <br/>
-<a href="/Whatsapp.svg">Whatsapp</a>
+<a href="/icons/MastercardTravelpass.svg">MastercardTravelpass</a>
 </td>
 <td align="center">
-<img src="/WiFi.svg" alt="WiFi" width="50">
+<img src="/icons/MEGA.svg" alt="MEGA" width="50">
 <br/>
-<a href="/WiFi.svg">WiFi</a>
+<a href="/icons/MEGA.svg">MEGA</a>
 </td>
 <td align="center">
-<img src="/Wikipedia.svg" alt="Wikipedia" width="50">
+<img src="/icons/Meta.svg" alt="Meta" width="50">
 <br/>
-<a href="/Wikipedia.svg">Wikipedia</a>
+<a href="/icons/Meta.svg">Meta</a>
 </td>
 <td align="center">
-<img src="/Wonder-Woman.svg" alt="Wonder-Woman" width="50">
+<img src="/icons/Microsoft-Office.svg" alt="Microsoft-Office" width="50">
 <br/>
-<a href="/Wonder-Woman.svg">Wonder-Woman</a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="/X-Circle.svg" alt="X-Circle" width="50">
-<br/>
-<a href="/X-Circle.svg">X-Circle</a>
-</td>
-<td align="center">
-<img src="/X-Square.svg" alt="X-Square" width="50">
-<br/>
-<a href="/X-Square.svg">X-Square</a>
-</td>
-<td align="center">
-<img src="/XDA-Developers.svg" alt="XDA-Developers" width="50">
-<br/>
-<a href="/XDA-Developers.svg">XDA-Developers</a>
-</td>
-<td align="center">
-<img src="/Xiaomi.svg" alt="Xiaomi" width="50">
-<br/>
-<a href="/Xiaomi.svg">Xiaomi</a>
-</td>
-<td align="center">
-<img src="/Yahoo.svg" alt="Yahoo" width="50">
-<br/>
-<a href="/Yahoo.svg">Yahoo</a>
+<a href="/icons/Microsoft-Office.svg">Microsoft-Office</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/Yaldi.svg" alt="Yaldi" width="50">
+<img src="/icons/Microsoft-Outlook.svg" alt="Microsoft-Outlook" width="50">
 <br/>
-<a href="/Yaldi.svg">Yaldi</a>
+<a href="/icons/Microsoft-Outlook.svg">Microsoft-Outlook</a>
 </td>
 <td align="center">
-<img src="/Yandex.svg" alt="Yandex" width="50">
+<img src="/icons/Microsoft-Teams-New.svg" alt="Microsoft-Teams-New" width="50">
 <br/>
-<a href="/Yandex.svg">Yandex</a>
+<a href="/icons/Microsoft-Teams-New.svg">Microsoft-Teams-New</a>
 </td>
 <td align="center">
-<img src="/YesRewards-Gradient.svg" alt="YesRewards-Gradient" width="50">
+<img src="/icons/Microsoft-Teams.svg" alt="Microsoft-Teams" width="50">
 <br/>
-<a href="/YesRewards-Gradient.svg">YesRewards-Gradient</a>
+<a href="/icons/Microsoft-Teams.svg">Microsoft-Teams</a>
 </td>
 <td align="center">
-<img src="/YesRewards.svg" alt="YesRewards" width="50">
+<img src="/icons/Microsoft.svg" alt="Microsoft" width="50">
 <br/>
-<a href="/YesRewards.svg">YesRewards</a>
+<a href="/icons/Microsoft.svg">Microsoft</a>
 </td>
 <td align="center">
-<img src="/Zapier.svg" alt="Zapier" width="50">
+<img src="/icons/MonsterJobs.svg" alt="MonsterJobs" width="50">
 <br/>
-<a href="/Zapier.svg">Zapier</a>
+<a href="/icons/MonsterJobs.svg">MonsterJobs</a>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="/ZeroSSL.svg" alt="ZeroSSL" width="50">
+<img src="/icons/My-Fonts.svg" alt="My-Fonts" width="50">
 <br/>
-<a href="/ZeroSSL.svg">ZeroSSL</a>
+<a href="/icons/My-Fonts.svg">My-Fonts</a>
 </td>
 <td align="center">
-<img src="/Ziggo.svg" alt="Ziggo" width="50">
+<img src="/icons/MyBox.svg" alt="MyBox" width="50">
 <br/>
-<a href="/Ziggo.svg">Ziggo</a>
+<a href="/icons/MyBox.svg">MyBox</a>
 </td>
 <td align="center">
-<img src="/Zoom.svg" alt="Zoom" width="50">
+<img src="/icons/N26-Circle.svg" alt="N26-Circle" width="50">
 <br/>
-<a href="/Zoom.svg">Zoom</a>
+<a href="/icons/N26-Circle.svg">N26-Circle</a>
 </td>
 <td align="center">
-<img src="/Zurich-International.svg" alt="Zurich-International" width="50">
+<img src="/icons/N26.svg" alt="N26" width="50">
 <br/>
-<a href="/Zurich-International.svg">Zurich-International</a>
+<a href="/icons/N26.svg">N26</a>
+</td>
+<td align="center">
+<img src="/icons/NAS.svg" alt="NAS" width="50">
+<br/>
+<a href="/icons/NAS.svg">NAS</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/Neat.svg" alt="Neat" width="50">
+<br/>
+<a href="/icons/Neat.svg">Neat</a>
+</td>
+<td align="center">
+<img src="/icons/Netflix.svg" alt="Netflix" width="50">
+<br/>
+<a href="/icons/Netflix.svg">Netflix</a>
+</td>
+<td align="center">
+<img src="/icons/Netgear.svg" alt="Netgear" width="50">
+<br/>
+<a href="/icons/Netgear.svg">Netgear</a>
+</td>
+<td align="center">
+<img src="/icons/Netherlands.svg" alt="Netherlands" width="50">
+<br/>
+<a href="/icons/Netherlands.svg">Netherlands</a>
+</td>
+<td align="center">
+<img src="/icons/Netlify.svg" alt="Netlify" width="50">
+<br/>
+<a href="/icons/Netlify.svg">Netlify</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/Newegg.svg" alt="Newegg" width="50">
+<br/>
+<a href="/icons/Newegg.svg">Newegg</a>
+</td>
+<td align="center">
+<img src="/icons/Nextcloud.svg" alt="Nextcloud" width="50">
+<br/>
+<a href="/icons/Nextcloud.svg">Nextcloud</a>
+</td>
+<td align="center">
+<img src="/icons/NIBC.svg" alt="NIBC" width="50">
+<br/>
+<a href="/icons/NIBC.svg">NIBC</a>
+</td>
+<td align="center">
+<img src="/icons/Noon.svg" alt="Noon" width="50">
+<br/>
+<a href="/icons/Noon.svg">Noon</a>
+</td>
+<td align="center">
+<img src="/icons/Noqodi.svg" alt="Noqodi" width="50">
+<br/>
+<a href="/icons/Noqodi.svg">Noqodi</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/NordVPN.svg" alt="NordVPN" width="50">
+<br/>
+<a href="/icons/NordVPN.svg">NordVPN</a>
+</td>
+<td align="center">
+<img src="/icons/NVIDIA-Square.svg" alt="NVIDIA-Square" width="50">
+<br/>
+<a href="/icons/NVIDIA-Square.svg">NVIDIA-Square</a>
+</td>
+<td align="center">
+<img src="/icons/NVIDIA.svg" alt="NVIDIA" width="50">
+<br/>
+<a href="/icons/NVIDIA.svg">NVIDIA</a>
+</td>
+<td align="center">
+<img src="/icons/OffGamers.svg" alt="OffGamers" width="50">
+<br/>
+<a href="/icons/OffGamers.svg">OffGamers</a>
+</td>
+<td align="center">
+<img src="/icons/Ola-Cabs-Box.svg" alt="Ola-Cabs-Box" width="50">
+<br/>
+<a href="/icons/Ola-Cabs-Box.svg">Ola-Cabs-Box</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/Ola-Cabs.svg" alt="Ola-Cabs" width="50">
+<br/>
+<a href="/icons/Ola-Cabs.svg">Ola-Cabs</a>
+</td>
+<td align="center">
+<img src="/icons/OpenSubtitles.svg" alt="OpenSubtitles" width="50">
+<br/>
+<a href="/icons/OpenSubtitles.svg">OpenSubtitles</a>
+</td>
+<td align="center">
+<img src="/icons/OPNSense.svg" alt="OPNSense" width="50">
+<br/>
+<a href="/icons/OPNSense.svg">OPNSense</a>
+</td>
+<td align="center">
+<img src="/icons/Oracle.svg" alt="Oracle" width="50">
+<br/>
+<a href="/icons/Oracle.svg">Oracle</a>
+</td>
+<td align="center">
+<img src="/icons/Oral-B.svg" alt="Oral-B" width="50">
+<br/>
+<a href="/icons/Oral-B.svg">Oral-B</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/OSN.svg" alt="OSN" width="50">
+<br/>
+<a href="/icons/OSN.svg">OSN</a>
+</td>
+<td align="center">
+<img src="/icons/Parallels-Flat.svg" alt="Parallels-Flat" width="50">
+<br/>
+<a href="/icons/Parallels-Flat.svg">Parallels-Flat</a>
+</td>
+<td align="center">
+<img src="/icons/Parallels.svg" alt="Parallels" width="50">
+<br/>
+<a href="/icons/Parallels.svg">Parallels</a>
+</td>
+<td align="center">
+<img src="/icons/Password.svg" alt="Password" width="50">
+<br/>
+<a href="/icons/Password.svg">Password</a>
+</td>
+<td align="center">
+<img src="/icons/Patreon.svg" alt="Patreon" width="50">
+<br/>
+<a href="/icons/Patreon.svg">Patreon</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/PayPal.svg" alt="PayPal" width="50">
+<br/>
+<a href="/icons/PayPal.svg">PayPal</a>
+</td>
+<td align="center">
+<img src="/icons/Philips.svg" alt="Philips" width="50">
+<br/>
+<a href="/icons/Philips.svg">Philips</a>
+</td>
+<td align="center">
+<img src="/icons/Piggy-Bank.svg" alt="Piggy-Bank" width="50">
+<br/>
+<a href="/icons/Piggy-Bank.svg">Piggy-Bank</a>
+</td>
+<td align="center">
+<img src="/icons/Pinterest.svg" alt="Pinterest" width="50">
+<br/>
+<a href="/icons/Pinterest.svg">Pinterest</a>
+</td>
+<td align="center">
+<img src="/icons/PlatinumList.svg" alt="PlatinumList" width="50">
+<br/>
+<a href="/icons/PlatinumList.svg">PlatinumList</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/PlayStation.svg" alt="PlayStation" width="50">
+<br/>
+<a href="/icons/PlayStation.svg">PlayStation</a>
+</td>
+<td align="center">
+<img src="/icons/Plex.svg" alt="Plex" width="50">
+<br/>
+<a href="/icons/Plex.svg">Plex</a>
+</td>
+<td align="center">
+<img src="/icons/Porkbun.svg" alt="Porkbun" width="50">
+<br/>
+<a href="/icons/Porkbun.svg">Porkbun</a>
+</td>
+<td align="center">
+<img src="/icons/Postman.svg" alt="Postman" width="50">
+<br/>
+<a href="/icons/Postman.svg">Postman</a>
+</td>
+<td align="center">
+<img src="/icons/Prerender.svg" alt="Prerender" width="50">
+<br/>
+<a href="/icons/Prerender.svg">Prerender</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/PrivadoVPN.svg" alt="PrivadoVPN" width="50">
+<br/>
+<a href="/icons/PrivadoVPN.svg">PrivadoVPN</a>
+</td>
+<td align="center">
+<img src="/icons/ProdPad.svg" alt="ProdPad" width="50">
+<br/>
+<a href="/icons/ProdPad.svg">ProdPad</a>
+</td>
+<td align="center">
+<img src="/icons/ProtonVPN-2.svg" alt="ProtonVPN-2" width="50">
+<br/>
+<a href="/icons/ProtonVPN-2.svg">ProtonVPN-2</a>
+</td>
+<td align="center">
+<img src="/icons/ProtonVPN.svg" alt="ProtonVPN" width="50">
+<br/>
+<a href="/icons/ProtonVPN.svg">ProtonVPN</a>
+</td>
+<td align="center">
+<img src="/icons/ProxmoxVE.svg" alt="ProxmoxVE" width="50">
+<br/>
+<a href="/icons/ProxmoxVE.svg">ProxmoxVE</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/QNap.svg" alt="QNap" width="50">
+<br/>
+<a href="/icons/QNap.svg">QNap</a>
+</td>
+<td align="center">
+<img src="/icons/QuantumMetric.svg" alt="QuantumMetric" width="50">
+<br/>
+<a href="/icons/QuantumMetric.svg">QuantumMetric</a>
+</td>
+<td align="center">
+<img src="/icons/Raider.io.svg" alt="Raider.io" width="50">
+<br/>
+<a href="/icons/Raider.io.svg">Raider.io</a>
+</td>
+<td align="center">
+<img src="/icons/Rapido.svg" alt="Rapido" width="50">
+<br/>
+<a href="/icons/Rapido.svg">Rapido</a>
+</td>
+<td align="center">
+<img src="/icons/Razer.svg" alt="Razer" width="50">
+<br/>
+<a href="/icons/Razer.svg">Razer</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/Red-Hat.svg" alt="Red-Hat" width="50">
+<br/>
+<a href="/icons/Red-Hat.svg">Red-Hat</a>
+</td>
+<td align="center">
+<img src="/icons/Reddit.svg" alt="Reddit" width="50">
+<br/>
+<a href="/icons/Reddit.svg">Reddit</a>
+</td>
+<td align="center">
+<img src="/icons/Revolut.svg" alt="Revolut" width="50">
+<br/>
+<a href="/icons/Revolut.svg">Revolut</a>
+</td>
+<td align="center">
+<img src="/icons/RockstarGames.svg" alt="RockstarGames" width="50">
+<br/>
+<a href="/icons/RockstarGames.svg">RockstarGames</a>
+</td>
+<td align="center">
+<img src="/icons/Roundcube.svg" alt="Roundcube" width="50">
+<br/>
+<a href="/icons/Roundcube.svg">Roundcube</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/RTA.svg" alt="RTA" width="50">
+<br/>
+<a href="/icons/RTA.svg">RTA</a>
+</td>
+<td align="center">
+<img src="/icons/SalesForce.svg" alt="SalesForce" width="50">
+<br/>
+<a href="/icons/SalesForce.svg">SalesForce</a>
+</td>
+<td align="center">
+<img src="/icons/Salik.svg" alt="Salik" width="50">
+<br/>
+<a href="/icons/Salik.svg">Salik</a>
+</td>
+<td align="center">
+<img src="/icons/Samsung.svg" alt="Samsung" width="50">
+<br/>
+<a href="/icons/Samsung.svg">Samsung</a>
+</td>
+<td align="center">
+<img src="/icons/SBI.svg" alt="SBI" width="50">
+<br/>
+<a href="/icons/SBI.svg">SBI</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/Scaleway.svg" alt="Scaleway" width="50">
+<br/>
+<a href="/icons/Scaleway.svg">Scaleway</a>
+</td>
+<td align="center">
+<img src="/icons/SDL-Trados-2019.svg" alt="SDL-Trados-2019" width="50">
+<br/>
+<a href="/icons/SDL-Trados-2019.svg">SDL-Trados-2019</a>
+</td>
+<td align="center">
+<img src="/icons/Searchmetrics.svg" alt="Searchmetrics" width="50">
+<br/>
+<a href="/icons/Searchmetrics.svg">Searchmetrics</a>
+</td>
+<td align="center">
+<img src="/icons/Secure-Note.svg" alt="Secure-Note" width="50">
+<br/>
+<a href="/icons/Secure-Note.svg">Secure-Note</a>
+</td>
+<td align="center">
+<img src="/icons/Sendgrid.svg" alt="Sendgrid" width="50">
+<br/>
+<a href="/icons/Sendgrid.svg">Sendgrid</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/ShopAndShip.svg" alt="ShopAndShip" width="50">
+<br/>
+<a href="/icons/ShopAndShip.svg">ShopAndShip</a>
+</td>
+<td align="center">
+<img src="/icons/Shukran.svg" alt="Shukran" width="50">
+<br/>
+<a href="/icons/Shukran.svg">Shukran</a>
+</td>
+<td align="center">
+<img src="/icons/Skrill.svg" alt="Skrill" width="50">
+<br/>
+<a href="/icons/Skrill.svg">Skrill</a>
+</td>
+<td align="center">
+<img src="/icons/Skype.svg" alt="Skype" width="50">
+<br/>
+<a href="/icons/Skype.svg">Skype</a>
+</td>
+<td align="center">
+<img src="/icons/Skyscanner.svg" alt="Skyscanner" width="50">
+<br/>
+<a href="/icons/Skyscanner.svg">Skyscanner</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/Skywards.svg" alt="Skywards" width="50">
+<br/>
+<a href="/icons/Skywards.svg">Skywards</a>
+</td>
+<td align="center">
+<img src="/icons/SkywardsEveryday.svg" alt="SkywardsEveryday" width="50">
+<br/>
+<a href="/icons/SkywardsEveryday.svg">SkywardsEveryday</a>
+</td>
+<td align="center">
+<img src="/icons/Software-Package.svg" alt="Software-Package" width="50">
+<br/>
+<a href="/icons/Software-Package.svg">Software-Package</a>
+</td>
+<td align="center">
+<img src="/icons/Sonos-Gold.svg" alt="Sonos-Gold" width="50">
+<br/>
+<a href="/icons/Sonos-Gold.svg">Sonos-Gold</a>
+</td>
+<td align="center">
+<img src="/icons/Sonos.svg" alt="Sonos" width="50">
+<br/>
+<a href="/icons/Sonos.svg">Sonos</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/Sony.svg" alt="Sony" width="50">
+<br/>
+<a href="/icons/Sony.svg">Sony</a>
+</td>
+<td align="center">
+<img src="/icons/Sophos.svg" alt="Sophos" width="50">
+<br/>
+<a href="/icons/Sophos.svg">Sophos</a>
+</td>
+<td align="center">
+<img src="/icons/SoundCloud-Black.svg" alt="SoundCloud-Black" width="50">
+<br/>
+<a href="/icons/SoundCloud-Black.svg">SoundCloud-Black</a>
+</td>
+<td align="center">
+<img src="/icons/SoundCloud-White.svg" alt="SoundCloud-White" width="50">
+<br/>
+<a href="/icons/SoundCloud-White.svg">SoundCloud-White</a>
+</td>
+<td align="center">
+<img src="/icons/SpeedCurve.svg" alt="SpeedCurve" width="50">
+<br/>
+<a href="/icons/SpeedCurve.svg">SpeedCurve</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/Spideroak.svg" alt="Spideroak" width="50">
+<br/>
+<a href="/icons/Spideroak.svg">Spideroak</a>
+</td>
+<td align="center">
+<img src="/icons/Spotify-Black.svg" alt="Spotify-Black" width="50">
+<br/>
+<a href="/icons/Spotify-Black.svg">Spotify-Black</a>
+</td>
+<td align="center">
+<img src="/icons/Spotify.svg" alt="Spotify" width="50">
+<br/>
+<a href="/icons/Spotify.svg">Spotify</a>
+</td>
+<td align="center">
+<img src="/icons/SSH.svg" alt="SSH" width="50">
+<br/>
+<a href="/icons/SSH.svg">SSH</a>
+</td>
+<td align="center">
+<img src="/icons/Standard-Chartered.svg" alt="Standard-Chartered" width="50">
+<br/>
+<a href="/icons/Standard-Chartered.svg">Standard-Chartered</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/Steam.svg" alt="Steam" width="50">
+<br/>
+<a href="/icons/Steam.svg">Steam</a>
+</td>
+<td align="center">
+<img src="/icons/Stremio.svg" alt="Stremio" width="50">
+<br/>
+<a href="/icons/Stremio.svg">Stremio</a>
+</td>
+<td align="center">
+<img src="/icons/StumbleUpon.svg" alt="StumbleUpon" width="50">
+<br/>
+<a href="/icons/StumbleUpon.svg">StumbleUpon</a>
+</td>
+<td align="center">
+<img src="/icons/SuperMicro.svg" alt="SuperMicro" width="50">
+<br/>
+<a href="/icons/SuperMicro.svg">SuperMicro</a>
+</td>
+<td align="center">
+<img src="/icons/Swissquote.svg" alt="Swissquote" width="50">
+<br/>
+<a href="/icons/Swissquote.svg">Swissquote</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/Synology.svg" alt="Synology" width="50">
+<br/>
+<a href="/icons/Synology.svg">Synology</a>
+</td>
+<td align="center">
+<img src="/icons/Tableau.svg" alt="Tableau" width="50">
+<br/>
+<a href="/icons/Tableau.svg">Tableau</a>
+</td>
+<td align="center">
+<img src="/icons/TeamViewer.svg" alt="TeamViewer" width="50">
+<br/>
+<a href="/icons/TeamViewer.svg">TeamViewer</a>
+</td>
+<td align="center">
+<img src="/icons/Telegram.svg" alt="Telegram" width="50">
+<br/>
+<a href="/icons/Telegram.svg">Telegram</a>
+</td>
+<td align="center">
+<img src="/icons/Termius.svg" alt="Termius" width="50">
+<br/>
+<a href="/icons/Termius.svg">Termius</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/TP-Link.svg" alt="TP-Link" width="50">
+<br/>
+<a href="/icons/TP-Link.svg">TP-Link</a>
+</td>
+<td align="center">
+<img src="/icons/Trakt.svg" alt="Trakt" width="50">
+<br/>
+<a href="/icons/Trakt.svg">Trakt</a>
+</td>
+<td align="center">
+<img src="/icons/TransIP-Stack.svg" alt="TransIP-Stack" width="50">
+<br/>
+<a href="/icons/TransIP-Stack.svg">TransIP-Stack</a>
+</td>
+<td align="center">
+<img src="/icons/Trello.svg" alt="Trello" width="50">
+<br/>
+<a href="/icons/Trello.svg">Trello</a>
+</td>
+<td align="center">
+<img src="/icons/Trip-Advisor.svg" alt="Trip-Advisor" width="50">
+<br/>
+<a href="/icons/Trip-Advisor.svg">Trip-Advisor</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/TuneIn.svg" alt="TuneIn" width="50">
+<br/>
+<a href="/icons/TuneIn.svg">TuneIn</a>
+</td>
+<td align="center">
+<img src="/icons/Tunnel-Bear.svg" alt="Tunnel-Bear" width="50">
+<br/>
+<a href="/icons/Tunnel-Bear.svg">Tunnel-Bear</a>
+</td>
+<td align="center">
+<img src="/icons/Tweakers-New.svg" alt="Tweakers-New" width="50">
+<br/>
+<a href="/icons/Tweakers-New.svg">Tweakers-New</a>
+</td>
+<td align="center">
+<img src="/icons/Tweakers.svg" alt="Tweakers" width="50">
+<br/>
+<a href="/icons/Tweakers.svg">Tweakers</a>
+</td>
+<td align="center">
+<img src="/icons/Tweaknews.svg" alt="Tweaknews" width="50">
+<br/>
+<a href="/icons/Tweaknews.svg">Tweaknews</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/Twitch.svg" alt="Twitch" width="50">
+<br/>
+<a href="/icons/Twitch.svg">Twitch</a>
+</td>
+<td align="center">
+<img src="/icons/Twitter.svg" alt="Twitter" width="50">
+<br/>
+<a href="/icons/Twitter.svg">Twitter</a>
+</td>
+<td align="center">
+<img src="/icons/UAE-Government.svg" alt="UAE-Government" width="50">
+<br/>
+<a href="/icons/UAE-Government.svg">UAE-Government</a>
+</td>
+<td align="center">
+<img src="/icons/UAE-Nation-Brand.svg" alt="UAE-Nation-Brand" width="50">
+<br/>
+<a href="/icons/UAE-Nation-Brand.svg">UAE-Nation-Brand</a>
+</td>
+<td align="center">
+<img src="/icons/UAE-Pass.svg" alt="UAE-Pass" width="50">
+<br/>
+<a href="/icons/UAE-Pass.svg">UAE-Pass</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/UAE.svg" alt="UAE" width="50">
+<br/>
+<a href="/icons/UAE.svg">UAE</a>
+</td>
+<td align="center">
+<img src="/icons/Uber.svg" alt="Uber" width="50">
+<br/>
+<a href="/icons/Uber.svg">Uber</a>
+</td>
+<td align="center">
+<img src="/icons/Ubisoft.svg" alt="Ubisoft" width="50">
+<br/>
+<a href="/icons/Ubisoft.svg">Ubisoft</a>
+</td>
+<td align="center">
+<img src="/icons/Udrive.svg" alt="Udrive" width="50">
+<br/>
+<a href="/icons/Udrive.svg">Udrive</a>
+</td>
+<td align="center">
+<img src="/icons/Umbraco-Light.svg" alt="Umbraco-Light" width="50">
+<br/>
+<a href="/icons/Umbraco-Light.svg">Umbraco-Light</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/Umbraco.svg" alt="Umbraco" width="50">
+<br/>
+<a href="/icons/Umbraco.svg">Umbraco</a>
+</td>
+<td align="center">
+<img src="/icons/UPS.svg" alt="UPS" width="50">
+<br/>
+<a href="/icons/UPS.svg">UPS</a>
+</td>
+<td align="center">
+<img src="/icons/VFS-Global.svg" alt="VFS-Global" width="50">
+<br/>
+<a href="/icons/VFS-Global.svg">VFS-Global</a>
+</td>
+<td align="center">
+<img src="/icons/Vikunja.svg" alt="Vikunja" width="50">
+<br/>
+<a href="/icons/Vikunja.svg">Vikunja</a>
+</td>
+<td align="center">
+<img src="/icons/Vimeo.svg" alt="Vimeo" width="50">
+<br/>
+<a href="/icons/Vimeo.svg">Vimeo</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/VisualStudio.svg" alt="VisualStudio" width="50">
+<br/>
+<a href="/icons/VisualStudio.svg">VisualStudio</a>
+</td>
+<td align="center">
+<img src="/icons/Vivaldi.svg" alt="Vivaldi" width="50">
+<br/>
+<a href="/icons/Vivaldi.svg">Vivaldi</a>
+</td>
+<td align="center">
+<img src="/icons/Vivino.svg" alt="Vivino" width="50">
+<br/>
+<a href="/icons/Vivino.svg">Vivino</a>
+</td>
+<td align="center">
+<img src="/icons/VMWare.svg" alt="VMWare" width="50">
+<br/>
+<a href="/icons/VMWare.svg">VMWare</a>
+</td>
+<td align="center">
+<img src="/icons/Vodafone-Idea.svg" alt="Vodafone-Idea" width="50">
+<br/>
+<a href="/icons/Vodafone-Idea.svg">Vodafone-Idea</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/VOX-Cinemas.svg" alt="VOX-Cinemas" width="50">
+<br/>
+<a href="/icons/VOX-Cinemas.svg">VOX-Cinemas</a>
+</td>
+<td align="center">
+<img src="/icons/VPN-Padlock.svg" alt="VPN-Padlock" width="50">
+<br/>
+<a href="/icons/VPN-Padlock.svg">VPN-Padlock</a>
+</td>
+<td align="center">
+<img src="/icons/Waterdrop.svg" alt="Waterdrop" width="50">
+<br/>
+<a href="/icons/Waterdrop.svg">Waterdrop</a>
+</td>
+<td align="center">
+<img src="/icons/Waze.svg" alt="Waze" width="50">
+<br/>
+<a href="/icons/Waze.svg">Waze</a>
+</td>
+<td align="center">
+<img src="/icons/WebPageTest.svg" alt="WebPageTest" width="50">
+<br/>
+<a href="/icons/WebPageTest.svg">WebPageTest</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/Western-Union.svg" alt="Western-Union" width="50">
+<br/>
+<a href="/icons/Western-Union.svg">Western-Union</a>
+</td>
+<td align="center">
+<img src="/icons/Whatsapp.svg" alt="Whatsapp" width="50">
+<br/>
+<a href="/icons/Whatsapp.svg">Whatsapp</a>
+</td>
+<td align="center">
+<img src="/icons/WiFi.svg" alt="WiFi" width="50">
+<br/>
+<a href="/icons/WiFi.svg">WiFi</a>
+</td>
+<td align="center">
+<img src="/icons/Wikipedia.svg" alt="Wikipedia" width="50">
+<br/>
+<a href="/icons/Wikipedia.svg">Wikipedia</a>
+</td>
+<td align="center">
+<img src="/icons/Wonder-Woman.svg" alt="Wonder-Woman" width="50">
+<br/>
+<a href="/icons/Wonder-Woman.svg">Wonder-Woman</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/X-Circle.svg" alt="X-Circle" width="50">
+<br/>
+<a href="/icons/X-Circle.svg">X-Circle</a>
+</td>
+<td align="center">
+<img src="/icons/X-Square.svg" alt="X-Square" width="50">
+<br/>
+<a href="/icons/X-Square.svg">X-Square</a>
+</td>
+<td align="center">
+<img src="/icons/XDA-Developers.svg" alt="XDA-Developers" width="50">
+<br/>
+<a href="/icons/XDA-Developers.svg">XDA-Developers</a>
+</td>
+<td align="center">
+<img src="/icons/Xiaomi.svg" alt="Xiaomi" width="50">
+<br/>
+<a href="/icons/Xiaomi.svg">Xiaomi</a>
+</td>
+<td align="center">
+<img src="/icons/Yahoo.svg" alt="Yahoo" width="50">
+<br/>
+<a href="/icons/Yahoo.svg">Yahoo</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/Yaldi.svg" alt="Yaldi" width="50">
+<br/>
+<a href="/icons/Yaldi.svg">Yaldi</a>
+</td>
+<td align="center">
+<img src="/icons/Yandex.svg" alt="Yandex" width="50">
+<br/>
+<a href="/icons/Yandex.svg">Yandex</a>
+</td>
+<td align="center">
+<img src="/icons/YesRewards-Gradient.svg" alt="YesRewards-Gradient" width="50">
+<br/>
+<a href="/icons/YesRewards-Gradient.svg">YesRewards-Gradient</a>
+</td>
+<td align="center">
+<img src="/icons/YesRewards.svg" alt="YesRewards" width="50">
+<br/>
+<a href="/icons/YesRewards.svg">YesRewards</a>
+</td>
+<td align="center">
+<img src="/icons/Zapier.svg" alt="Zapier" width="50">
+<br/>
+<a href="/icons/Zapier.svg">Zapier</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="/icons/ZeroSSL.svg" alt="ZeroSSL" width="50">
+<br/>
+<a href="/icons/ZeroSSL.svg">ZeroSSL</a>
+</td>
+<td align="center">
+<img src="/icons/Ziggo.svg" alt="Ziggo" width="50">
+<br/>
+<a href="/icons/Ziggo.svg">Ziggo</a>
+</td>
+<td align="center">
+<img src="/icons/Zoom.svg" alt="Zoom" width="50">
+<br/>
+<a href="/icons/Zoom.svg">Zoom</a>
+</td>
+<td align="center">
+<img src="/icons/Zurich-International.svg" alt="Zurich-International" width="50">
+<br/>
+<a href="/icons/Zurich-International.svg">Zurich-International</a>
 </td>
 
 </tr>
