@@ -4,7 +4,7 @@ function write_image() {
 	if [[ -n $1 ]]; then
 
 		NAME=$(basename $1 .svg)
-		URL="/$1"
+		URL="/icons/$1"
 
 
 		cat <<- EOF
