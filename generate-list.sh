@@ -4,7 +4,7 @@ function write_image() {
 	if [[ -n $1 ]]; then
 
 		NAME=$(basename $1 .svg)
-		URL="/icons/$1"
+		URL="/$1"
 
 
 		cat <<- EOF
@@ -43,6 +43,6 @@ while IFS= read -r image1; do
 
 	EOF
 
-done < <(ls *.svg | sort -f)
+done < <(ls icons/*.svg | sort -f)
 
 echo "</table>"
