@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+    <defs>
+        <linearGradient id="g1" x1="82" y1="126" x2="82" y2="4.4" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#151b4d"></stop>
+            <stop offset=".1" stop-color="#495d86"></stop>
+            <stop offset=".5" stop-color="#7d8ba9"></stop>
+        </linearGradient>
+        <linearGradient id="g2" x1="3.5" y1="106.5" x2="83.4" y2=".5" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#23c2f2"></stop>
+            <stop offset=".1" stop-color="#29b9ec"></stop>
+            <stop offset=".5" stop-color="#385daa"></stop>
+        </linearGradient>
+        <linearGradient id="g3" x1="39.2" y1="30.6" x2="151.5" y2="2.6" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#23c2f2"></stop>
+            <stop offset=".5" stop-color="#385daa"></stop>
+        </linearGradient>
+    </defs>
+    <style>
+        .s0 {
+            fill: #001750
+        }
+
+        .s1 {
+            fill: url(#g1)
+        }
+
+        .s2 {
+            fill: url(#g2)
+        }
+
+        .s3 {
+            fill: url(#g3)
+        }
+    </style>
+    <rect width="200" height="200" fill="#eee" rx="30" />
+    <g transform="translate(10, 25)">
+        <path class="s1" d="m164 126h-164l85.2-121.6 4.2 0.2zm-136-14.6h111l-52.2-83.8z"/>
+        <path class="s2" d="m95.4 14.8l-8.8 13-58.6 83.4h-17.8l75-106.4 4.2 0.2z"/>
+        <path class="s0" d="m164.2 126h-16l-61.4-98.6-8.4-13.2 6.8-9.8 2.2-3.2 2 3.4z"/>
+        <path class="s3" d="m120 14.6l4.2-0.4 55 89.8h-16.2l-41.2-66.6-46.2 66.4h-18.2z"/>
+        <path class="s0" d="m163 104l-41.4-66.2-8.4-13.6 6.8-9.6 2.4-3.4 1.8 3 55 89.8z"/>
+    </g>
+</svg>
